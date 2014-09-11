@@ -11,7 +11,7 @@ Usage :
 
 1. Astrology
 
-Type @astronav capricorn in your mobile and send it to 
+Type @astronav capricorn in your mobile and send it to the number "51115"
 
 ex :@newsnav tech 1
   

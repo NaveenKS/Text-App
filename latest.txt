@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Student - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf6" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Student&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Student&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:4edf467d58fee44c83dfe724ca07c179 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Student","wgTitle":"Student","wgCurRevisionId":500591102,"wgArticleId":155526,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from February 2012","Articles needing cleanup from February 2012","All articles needing cleanup","Cleanup tagged articles without a reason field from February 2012","Wikipedia pages needing cleanup from February 2012","Articles needing additional references from May 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2008","Articles with unsourced statements from April 2011","Articles with unsourced statements from May 2012","Students"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Student","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"f084e509e61d16f496c2b2d604401c95","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.wikimediaShopLink.core"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf6/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Student skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Student</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For other uses, see <a href="/wiki/Student_(disambiguation)" title="Student (disambiguation)">Student (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-style ambox-Cleanup" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>may require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a></b>. <span class="hide-when-compact">No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Student&amp;action=edit">improve this article</a> if you can.</span> <small><i>(February 2012)</i></small> </span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>needs additional <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Student&amp;action=edit">improve this article</a> by adding citations to <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(May 2012)</i></small> </span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a href="/wiki/File:Math_lecture_at_TKK.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Math_lecture_at_TKK.JPG/350px-Math_lecture_at_TKK.JPG" width="350" height="263" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Math_lecture_at_TKK.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Students attending a <a href="/wiki/Lecture" title="Lecture">lecture</a> on <a href="/wiki/Linear_algebra" title="Linear algebra">linear algebra</a> at the <i><a href="/wiki/Helsinki_University_of_Technology" title="Helsinki University of Technology" class="mw-redirect">Helsinki University of Technology</a></i></div>
+</div>
+</div>
+<p>A <b>student</b> is a learner, or someone who attends an educational institution. In some nations, the English term (or its cognate in another language) is reserved for those who attend <a href="/wiki/University" title="University">university</a>, while a schoolchild under the age of eighteen is called a <b>pupil</b> in English (or an equivalent in other languages). In its widest use, <i>student</i> is used for anyone who is <a href="/wiki/Learning" title="Learning">learning</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#International_variations"><span class="tocnumber">1</span> <span class="toctext">International variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Asia"><span class="tocnumber">1.1</span> <span class="toctext">Asia</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Iran"><span class="tocnumber">1.1.1</span> <span class="toctext">Iran</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-4"><a href="#Australia"><span class="tocnumber">1.2</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#New_Zealand"><span class="tocnumber">1.3</span> <span class="toctext">New Zealand</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Europe"><span class="tocnumber">1.4</span> <span class="toctext">Europe</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Finland"><span class="tocnumber">1.4.1</span> <span class="toctext">Finland</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#France"><span class="tocnumber">1.4.2</span> <span class="toctext">France</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Germany"><span class="tocnumber">1.4.3</span> <span class="toctext">Germany</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Ireland"><span class="tocnumber">1.4.4</span> <span class="toctext">Ireland</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Sweden"><span class="tocnumber">1.4.5</span> <span class="toctext">Sweden</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#United_Kingdom"><span class="tocnumber">1.4.6</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#North_America"><span class="tocnumber">1.5</span> <span class="toctext">North America</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Canada"><span class="tocnumber">1.5.1</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#United_States"><span class="tocnumber">1.5.2</span> <span class="toctext">United States</span></a>
+<ul>
+<li class="toclevel-4 tocsection-16"><a href="#First_year"><span class="tocnumber">1.5.2.1</span> <span class="toctext">First year</span></a></li>
+<li class="toclevel-4 tocsection-17"><a href="#Second_year"><span class="tocnumber">1.5.2.2</span> <span class="toctext">Second year</span></a></li>
+<li class="toclevel-4 tocsection-18"><a href="#Post-second_year"><span class="tocnumber">1.5.2.3</span> <span class="toctext">Post-second year</span></a></li>
+<li class="toclevel-4 tocsection-19"><a href="#Graduate_Students"><span class="tocnumber">1.5.2.4</span> <span class="toctext">Graduate Students</span></a></li>
+<li class="toclevel-4 tocsection-20"><a href="#Vocational_School"><span class="tocnumber">1.5.2.5</span> <span class="toctext">Vocational School</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-21"><a href="#Jamaica"><span class="tocnumber">1.5.3</span> <span class="toctext">Jamaica</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Mature_students"><span class="tocnumber">2</span> <span class="toctext">Mature students</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Student_pranks"><span class="tocnumber">3</span> <span class="toctext">Student pranks</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Other_terms"><span class="tocnumber">4</span> <span class="toctext">Other terms</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Idiomatic_use"><span class="tocnumber">5</span> <span class="toctext">Idiomatic use</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=1" title="Edit section: International variations">edit</a>]</span> <span class="mw-headline" id="International_variations">International variations</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Village_school_in_Northern_Bahr_el_Ghazal,_Sudan.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Village_school_in_Northern_Bahr_el_Ghazal%2C_Sudan.jpg/170px-Village_school_in_Northern_Bahr_el_Ghazal%2C_Sudan.jpg" width="170" height="226" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Village_school_in_Northern_Bahr_el_Ghazal,_Sudan.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Pupils in rural <a href="/wiki/Sudan" title="Sudan">Sudan</a>, 2002</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nh-students.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nh-students.JPG/220px-Nh-students.JPG" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nh-students.JPG" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Over one thousand pupils in uniform during an assembly at a <a href="/wiki/Secondary_school" title="Secondary school">secondary school</a> in <a href="/wiki/Singapore" title="Singapore">Singapore</a></div>
+</div>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=2" title="Edit section: Asia">edit</a>]</span> <span class="mw-headline" id="Asia">Asia</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=3" title="Edit section: Iran">edit</a>]</span> <span class="mw-headline" id="Iran">Iran</span></h4>
+<p>In Iran 12-year school is categorised in three stages: Elementary school, Junior high school and High school. It takes 5 years for a student to graduate from elementary school, 3 years for junior high school and 3 years for high school and 1 year for pre-university college( independed on your field) . After graduating from high school(or pre-university if needed), students acquire a diploma. Having a diploma, a student can participate in the university entrance exam or Konkoor. The university entrance exam is conducted every year by <a rel="nofollow" class="external text" href="http://www.sanjesh.org/">National Organization of Education Assessment</a>, an organization under the supervision of [httthe p://www.msrt.ir Ministry of Science, Research and Technology].</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=4" title="Edit section: Australia">edit</a>]</span> <span class="mw-headline" id="Australia">Australia</span></h3>
+<p>In <a href="/wiki/Australia" title="Australia">Australia</a>, after <a href="/wiki/Kindergarten" title="Kindergarten">kindergarten</a> or preschool, which are not compulsory, children begin primary school, usually after the fifth birthday. In <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a> the first year is called 'kindergarten', and in <a href="/wiki/South_Australia" title="South Australia">South Australia</a> 'reception'; students then continue on to 'year one' through to 'year six', except in <a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a>, South Australia and <a href="/wiki/Queensland" title="Queensland">Queensland</a>, where primary school continues to 'year seven'. Students begin secondary school (also known as high school) in 'year seven' (or 'year eight' in WA, SA and Qld)and continue to 'year twelve'. Year eight to ten students are sometimes referred to as juniors and year elevens and twelves as seniors. After year twelve, students may pursue tertiary education at university or TAFE (<a href="/wiki/Technical_and_further_education" title="Technical and further education">technical and further education</a>). The general term for children in primary and secondary school is 'students', including those in primary, secondary and tertiary levels.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=5" title="Edit section: New Zealand">edit</a>]</span> <span class="mw-headline" id="New_Zealand">New Zealand</span></h3>
+<p>In <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, after kindergarten or pre-school, which you attend from ages three to five, children begin primary school at 5. This is known as Year One, as it is the beginning of the 13 years of schooling. From years on you are known as Year Two, Year Three, Year Four etc. all the way up to Year Thirteen, which is the final school year. Year one to six is Primary School, where children commonly attend local schools in the area for that specific year group. Then Year Seven and Year Eight are Intermediate, and from Year Nine until Year Thirteen, a student would attend a secondary school or a college. Primary School children are known as Pupils and Intermediate/Secondary School children are known as Students. Year Thirteen is not compulsory, however it is very uncommon for a student to finish school at Year Twelve.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=6" title="Edit section: Europe">edit</a>]</span> <span class="mw-headline" id="Europe">Europe</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=7" title="Edit section: Finland">edit</a>]</span> <span class="mw-headline" id="Finland">Finland</span></h4>
+<p>In Finland a student is called "opiskelija" (plural being 'opiskelijat'), though children in compulsory education are called "oppilas" (plural being 'oppilaat'). first level of education is "esikoulu" (literally 'preschool'), which is optional. Children attend esikoulu the year they turn six, and next year they start attending "peruskoulu" (literally "basic school", corresponds to American elementary school, middle school and junior high), which is compulsory. Peruskoulu is divided to "ala-aste" (years 1 through 6) and "yläaste" (years 7 through 9). After compulsory education most children attend second level education (toisen asteen koulutus), either lukio (corresponds to high school) or ammattikoulu (usually translated as 'college', literally "profession school"), at which point they are called students (opiskelija). Some attend "kymppiluokka", which is a retake on some yläaste education.</p>
+<p>To attend ammattikorkeakoulu ("high profession school", translated as university of applied sciences) or a university a student must have a second level education. The recommended graduation time is five years. First year students are called "fuksi" and students that have studied more than five years are called "N:nnen vuoden opiskelija" (Nth year student).</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=8" title="Edit section: France">edit</a>]</span> <span class="mw-headline" id="France">France</span></h4>
+<p>In French, a <i>bleu</i> or "bizuth" is a first-year student. Second-year students are often called "carré" (square). Some other terms may apply in specific schools, some depending on the <a href="/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles" title="Classe préparatoire aux grandes écoles">classe préparatoire aux grandes écoles</a> attended.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=9" title="Edit section: Germany">edit</a>]</span> <span class="mw-headline" id="Germany">Germany</span></h4>
+<p>In Germany, the German cognate term "student" is reserved for those attending a university. University students in their first year are colloquially called <i>Erstis</i> ("firsties"). Different terms for school students exist, depending on which kind of school is attended by the student. The general term for a person going to school is <i>Schüler</i>. Students attending a university preparatory school are called <i>Gymnasiasten</i>, while those attending other schools are called <i>Hauptschüler</i> or <i>Realschüler</i>. Students who graduate with the <a href="/wiki/Abitur" title="Abitur">Abitur</a> are called <i>Abiturienten</i>.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=10" title="Edit section: Ireland">edit</a>]</span> <span class="mw-headline" id="Ireland">Ireland</span></h4>
+<p>In <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>, pupils officially start with national school which consists of three years: junior infants, senior infants and first class (ages 5–7). They then advance to primary school, which consists of second class to sixth class (ages 8–12). After primary school, pupils proceed to the secondary school level. Here they first enter the junior cycle, which consists of first <i>year</i> to third year (ages 13–15). At the end of third year, all students must sit a compulsory state examination called the <a href="/wiki/Junior_Certificate" title="Junior Certificate">Junior Certificate</a>. After third year, pupils have the option of taking a "transition year" or fourth year (usually at age 16). In transition year pupils take a break from regular studies to pursue other activities that help to promote their personal, social, vocational and educational development, and to prepares them for their role as autonomous, participative and responsible members of society. It also provides a bridge to enable pupils to make the transition from the more dependent type of learning associated with the Junior Cert. to the more independent learning environment associated with the senior cycle.</p>
+<p>After the junior cycle pupils advance to the senior cycle, which consists of fifth year and sixth year (usually ages between 16 to 19). At the end of the sixth year a final state examination is required to be sat by all pupils, known as the <a href="/wiki/Irish_Leaving_Certificate" title="Irish Leaving Certificate" class="mw-redirect">Leaving Certificate</a>. The Leaving Cert. is the basis for all Irish pupils who wish to do so to advance to higher education via a points system. A maximum of 600 points can be achieved. All higher education courses have a minimum of points needed for admission.</p>
+<p>At university the term "fresher" is used to describe new students who are just beginning their first year.</p>
+<p>At <a href="/wiki/Trinity_College_Dublin" title="Trinity College Dublin" class="mw-redirect">Trinity College Dublin</a> under-graduate students are formally called "junior freshmen", "senior freshmen", "junior sophister" or "senior sophister", according to the year they have reached in the typical four year degree course. <i>Sophister</i> is another term for a <a href="/wiki/Sophomore" title="Sophomore">sophomore</a>, though the term is rarely used in other institutions and is largely limited to Trinity College Dublin. The term, "first year" is the more commonly used and connotation free term for students in their first year. The week at the start of a new year is called "<a href="/wiki/Orientation_week" title="Orientation week" class="mw-redirect">Freshers' Week</a>" or "Welcome Week", with a programme of special events to welcome new students. An undergraduate in the last year of study before graduation is generally known as a "finalist."</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=11" title="Edit section: Sweden">edit</a>]</span> <span class="mw-headline" id="Sweden">Sweden</span></h4>
+<p>In Sweden, only those studying at university level are called students (<i>student</i>, plural <i>studenter</i>). To graduate from upper secondary school (<i>gymnasium</i>) is called <i>ta studenten</i> (literally "to take the student"), but after the graduation festivities, the graduate is no longer a student unless he or she enrolls at university-level education. At lower levels, the word <i>elev</i> (plural <i>elever</i>) is used. As a general term for all stages of education, the word <i>studerande</i> (plural also <i>studerande</i>) is used, meaning 'studying [person]'.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=12" title="Edit section: United Kingdom">edit</a>]</span> <span class="mw-headline" id="United_Kingdom">United Kingdom</span></h4>
+<p>In the past, the term "student" was reserved for people studying at university level in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>. Children studying at school were called "pupils" or "schoolchildren" (or "schoolboys" or "schoolgirls"). However, the <a href="/wiki/American_English" title="American English">American English</a> use of the word "student" to include pupils of all ages, even at elementary level, is now spreading to other countries, and is found in the UK (particularly in the state sector), as well as Australia and Singapore. In South Africa, the term "learner" is also used.</p>
+<p>In England and <a href="/wiki/Wales" title="Wales">Wales</a>, teenagers who attend a college or secondary school for further education are typically called "sixth formers". If pupils follow the average pattern of school attendance, pupils will be in "year 12" between the ages of 16 and 17, and "year 13" between 17 and 18, however many schools still refer to them as the "lower sixth" and "upper sixth" or "AS" and "A2". They "go up" to university after the upper sixth.</p>
+<p>In <a href="/wiki/Scotland" title="Scotland">Scotland</a>, pupils sit <a href="/wiki/Higher_(Scottish)" title="Higher (Scottish)">Highers</a> at the end of fifth year (when aged 16–17) after which it is possible for them to gain entry to university. Many pupils, however, choose to remain at school for a sixth year to grow in maturity and to gain extra qualifications (e.g. <a href="/wiki/Advanced_Highers" title="Advanced Highers">Advanced Highers</a>).</p>
+<p>At universities in the UK, the term "fresher" is used informally to describe new students who are just beginning their first year. Although it is not unusual to call someone a fresher after their first few weeks at university, they are typically referred to as "first years" or "first year students". There is little derogatory connotation to this name in the UK, except for an occasional reference to "freshers" in a tone that implies naivety. More commonly, it will be used in a kindly fashion. For instance, a university official might ask a student if they are a fresher without any hint of a put down.</p>
+<p>The ancient Scottish <a href="/wiki/University_of_St_Andrews" title="University of St Andrews">University of St Andrews</a> uses the terms "bejant" for a first year (from the French "<i>bec-jaune</i>"&#160;– "yellow beak", "fledgling"). Second years are called "semi-bejants", third years are known as "tertians", and fourth years, or others in their final year of study, are called "magistrands".</p>
+<p>In England and Wales, primary school begins with an optional "nursery" year followed by reception (similar to <a href="/wiki/Kindergarten" title="Kindergarten">kindergarten</a>) and then move on to "year one, year two" and so on until "year six". In state schools, children join secondary school when they are 11–12 years old in what used to be called "first form" and is now known as "year 7". They go up to year 11 (formerly "fifth form") and then join the sixth form, either at the same school or at a separate <a href="/wiki/Sixth_form_college" title="Sixth form college">sixth form college</a>. A student entering a private, fee-paying school (usually at age 13) would join the "third form" — equivalent to year 9. Many schools have an alternate name for first years, some with a derogatory basis, but in others acting merely as a description — for example "shells" (non-derogatory) or "grubs" (derogatory).</p>
+<p>In Northern Ireland and Scotland, it is very similar but with some differences. Pupils start off in nursery or reception aged 3 to 4, and then start primary school in "P1" (P standing for primary) or year 1. They then continue primary school until "P7" or year 7. After that they start secondary school at 11 years old, this is called "1st year" or year 8 in Northern Ireland, or "S1" in Scotland. They continue secondary school until the age of 16 at "5th year", year 12 or "S5", and then it is the choice of the individual pupil to decide to continue in school and (in Northern Ireland) do AS levels (known as "lower sixth") and then the next year to do A levels (known as "upper sixth"). In Scotland, students aged 16–18 take Highers, followed by Advanced Highers. Alternatively, pupils can leave and go into full time employment or to start in a technical collage.</p>
+<p>Large increases in the size of student populations in the UK and the effect this has had on some university towns or on areas of cities located near universities have become a concern in the UK since 2000. A report by Universities UK, "<i>Studentification: A Guide to Opportunities, Challenges and Practice</i>" (2006) has explored the subject and made various recommendations.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> A particular problem in many locations is seen as the impact of students on the availability, quality and price of rented and owner-occupied property.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=13" title="Edit section: North America">edit</a>]</span> <span class="mw-headline" id="North_America">North America</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=14" title="Edit section: Canada">edit</a>]</span> <span class="mw-headline" id="Canada">Canada</span></h4>
+<div class="rellink boilerplate seealso">For more details on this topic, see <a href="/wiki/Education_in_Canada" title="Education in Canada">Education in Canada</a>.</div>
+<p>Education in Canada is within the constitutional jurisdiction of the <a href="/wiki/Provinces_and_territories_of_Canada" title="Provinces and territories of Canada">provinces</a>, and the overall curriculum is overseen by the provincial governments. As there is no overall national coordinating authority, the way the educational stages are grouped and named differs from region to region. Education is generally divided into primary education, followed by secondary education, and post-secondary education. Primary and secondary education are generally divided into numbered grades from 1 to 12, although the first grade may be preceded by <a href="/wiki/Kindergarten" title="Kindergarten">kindergarten</a> (optional in many provinces). Ontario and Quebec offer a <a href="/wiki/Pre-kindergarten" title="Pre-kindergarten">pre-kindergarten</a>, called a "junior kindergarten" in Ontario, and a "garderie" in Quebec.</p>
+<p><a href="/wiki/Education_in_Ontario" title="Education in Ontario">Education in Ontario</a> once involved an <a href="/wiki/Ontario_Academic_Credit" title="Ontario Academic Credit">Ontario Academic Credit</a> (OAC) as university preparation, but that was phased out in 2007, and now all provinces except Quebec have 12 grades. The OAC was informally known as "grade 13" and the name was also used to refer to the students who took it.</p>
+<p><a href="/wiki/Education_in_Quebec" title="Education in Quebec">Education in Quebec</a> differs from the other provinces in that it has an école primaire (literally "primary school") consisting of grades 1-6, and an école secondaire (literally "secondary school") consisting of secondaries I-V. Secondaries I-V are equivalent to grades 7-11, and secondary V (grade 11) may be followed by two years of a pre-university called a <a href="/wiki/CEGEP" title="CEGEP">CEGEP</a>. In some English High Schools, as well as in most French schools, high school students will refer to secondary 1-5 as year one through five. So if someone in Secondary three is asked "what grade/year are you in?" they will reply "three" or "sec 3". It is presumed that the person asking the question knows that they are not referring to "Grade 3" but rather "Secondary 3". This can be confusing for those outside of Quebec</p>
+<p>In some provinces, grades 1 through 6 are called "elementary school", grades 6 through 8 are called "middle school" or "junior high school", and grades 9 through 12 are considered high school. Other provinces, such as British Columbia, mainly divide schooling into elementary school (Kindergarten to grade 7) and secondary school (grades 8 through 12). In Alberta, elementary consists of kindergarten through grade 6. Junior high consists of Grades 7-9. High school consists of Grades 10-12. In English provinces, the high school (known as <i>academy</i> or <i>secondary school</i>) years can be referred to simply as <i>first, second, third, and fourth year</i>. Some areas call it by grade such as grade 10, grade 11, and grade 12.</p>
+<p>The difference between college and university is significantly different than in the United States or even the United Kingdom. A Canadian college is more similar to an American community college. In contrast, a Canadian university is comparable to an American university. In Canada, colleges are generally geared for individuals seeking applied careers, while universities are geared for individuals seeking more academic careers.</p>
+<p>University students are generally classified as first, second, third, or fourth-year students, and the American system of classify them as "freshmen", "sophomores", "juniors", and "seniors" is seldom used or even understood in Canada. In some occasions, they can be called "senior ones", "twos", "threes", and "fours".</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=15" title="Edit section: United States">edit</a>]</span> <span class="mw-headline" id="United_States">United States</span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MiamiClassroom.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/MiamiClassroom.jpg/220px-MiamiClassroom.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MiamiClassroom.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Students inside a classroom at a college (<a href="/wiki/Miami_Dade_College" title="Miami Dade College">Miami Dade College</a> in the <a href="/wiki/United_States" title="United States">United States</a>).</div>
+</div>
+</div>
+<p>In the United States, the first official year of schooling is called <a href="/wiki/Kindergarten" title="Kindergarten">kindergarten</a>, which is why the students are called kindergarteners. Kindergarten is optional in most states, but few students skip this level. Pre-kindergarten, also known as "<a href="/wiki/Preschool" title="Preschool" class="mw-redirect">preschool</a>" is becoming a standard of education as academic expectations for the youngest students continue to rise. Many public schools offer pre-kindergarten programs.</p>
+<p>In the United States there are 12 years of mandatory schooling. The first eight are solely referred to by numbers (e.g. 1st grade, 5th grade) so students may be referred to as 1st graders, 5th graders, etc. Upon entering high school, grades 9 through 12 (<a href="/wiki/High_school" title="High school">high school</a>) also have alternate names for students, namely Freshman, Sophomore, Junior and Senior. Accordingly, college students are often called Freshman, Sophomores, Juniors, and Seniors (respectively), unless their undergraduate program calls for more than the traditional 4 years.</p>
+<h5><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=16" title="Edit section: First year">edit</a>]</span> <span class="mw-headline" id="First_year">First year</span></h5>
+<p>The first year of college or high school is referred to as Freshman year. A <a href="/wiki/Freshman" title="Freshman">freshman</a> (slang alternatives that are usually derogatory in nature include "fish", "new-g", "fresher", "frosh", "newbie", "freshie", "snotter", "fresh-meat", "skippie", etc.) is a first-year student in <a href="/wiki/College" title="College">college</a>, <a href="/wiki/University" title="University">university</a> or <a href="/wiki/High_school" title="High school">high school</a>. The less-common<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from February 2008">citation needed</span></a></i>]</sup> gender-neutral synonym "first-year student" exists.</p>
+<h5><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=17" title="Edit section: Second year">edit</a>]</span> <span class="mw-headline" id="Second_year">Second year</span></h5>
+<p>In the U.S., a <a href="//en.wiktionary.org/wiki/sophomore" class="extiw" title="wiktionary:sophomore">sophomore</a>, also called a "soph," is a second-year student. Outside the USA the term Sophomore is rarely used, with second-year students simply called "second years". <a href="/wiki/Folk_etymology" title="Folk etymology">Folk etymology</a> indicates that the word means "<a href="/wiki/Wise_fool" title="Wise fool">wise fool</a>"; consequently "sophomoric" means "pretentious, bombastic, inflated in style or manner; immature, crude, superficial" (according to the <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>). It is widely assumed to be formed from Greek "<i>sophos</i>", meaning "wise", and "<i>moros</i>" meaning "foolish", although the etymology suggests an origin from the now-defunct "sophumer", an obsolete variant of "<a href="/wiki/Sophism" title="Sophism">sophism</a>".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup></p>
+<h5><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=18" title="Edit section: Post-second year">edit</a>]</span> <span class="mw-headline" id="Post-second_year">Post-second year</span></h5>
+<p>In the USA, a Junior is a student in the penultimate (usually third) year and a Senior is a student in the last (usually fourth) year of <a href="/wiki/College" title="College">college</a>, <a href="/wiki/University" title="University">university</a>, or <a href="/wiki/High_school" title="High school">high school</a>. A student who takes more than the normal number of years to graduate is sometimes referred to as a "<a href="/wiki/Super_senior" title="Super senior">super senior</a>".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> This term is often used in college, but can be used in high school as well. The term Underclassman is used to refer collectively to Freshmen and Sophomores, and Upperclassman to refer collectively to Juniors and Seniors, sometimes even Sophomores. The term Middler is used to describe a third-year student of a school (generally <a href="/wiki/College" title="College">college</a>) that offers five years of study. In this situation, the fourth and fifth years would be referred to as Junior and Senior years, respectively, and the first two years would be the Freshman and Sophomore years.</p>
+<h5><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=19" title="Edit section: Graduate Students">edit</a>]</span> <span class="mw-headline" id="Graduate_Students">Graduate Students</span></h5>
+<p>A Graduate student is a student who continues their education after graduation. Some examples of graduate programs are: law school, medical school, veterinary school. Degrees earned in Graduate programs are the <a href="/wiki/Master%E2%80%99s_degree" title="Master’s degree" class="mw-redirect">Master’s degree</a> or a <a href="/wiki/Doctorate" title="Doctorate">Doctorate</a> degree.</p>
+<h5><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=20" title="Edit section: Vocational School">edit</a>]</span> <span class="mw-headline" id="Vocational_School">Vocational School</span></h5>
+<p>Student attending <a href="/wiki/Vocational_school" title="Vocational school">vocational school</a> focus on their job and learning how to work in specific fields of work. A vocational program typically takes much less time to complete than a four-year degree program, lasting 12–24 months.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> Liberal Arts that are required in four-year Universities are less important to these students because the skills necessary for their careers take precedence in order for a timely completion of the program.</p>
+<h4><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=21" title="Edit section: Jamaica">edit</a>]</span> <span class="mw-headline" id="Jamaica">Jamaica</span></h4>
+<p>In Jamaica, children usually start attending school at the age of two, where they would go to what is known as basic school or kindergarten. They would then move on to the primary or preparatory school at about the age of five or six usually. After six years at this level, students would move on to the secondary school level. After five years of education at this level, some students finish (fifth form or 11th grade) and graduate at sixteen years old. Some move on to the tertiary level, while some may choose to attend 6th form (12th and 13th grade) then move on to university or college or straight into the working world.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from April 2011">citation needed</span></a></i>]</sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=22" title="Edit section: Mature students">edit</a>]</span> <span class="mw-headline" id="Mature_students">Mature students</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Adult_learner" title="Adult learner">Adult learner</a></div>
+<p>A mature, non-traditional, or adult student in <a href="/wiki/Tertiary_education" title="Tertiary education">tertiary education</a> (at a university or a college) is normally classified as an (undergraduate) student who is at least 21–23 years old at the start of their <a href="/wiki/Course_of_study" title="Course of study" class="mw-redirect">course</a> and usually having been out of the education system for at least two years. Mature students can also include students who have been out of the education system for decades, or students with no secondary education. Mature students also make up graduate and <a href="/wiki/Postgraduate" title="Postgraduate" class="mw-redirect">postgraduate</a> populations by demographic of age.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=23" title="Edit section: Student pranks">edit</a>]</span> <span class="mw-headline" id="Student_pranks">Student pranks</span></h2>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Student_prank" title="Student prank">Student prank</a></div>
+<p>University students have been associated with pranks and japes since the creation of universities in the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> These can often involve petty crime, such as the theft of <a href="/wiki/Traffic_cone" title="Traffic cone">traffic cones</a> and other public property,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> or hoaxes. It is also not uncommon for students from one school to steal or deface the <a href="/wiki/Mascot" title="Mascot">mascot</a> of a rival school.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup> In fact, pranks play such a significant part in student culture that numerous books have been published that focus on the issue.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> Pranks may reflect current events,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> be a form of protest or revenge, or have no other purpose than for the enjoyment of the prank itself.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=24" title="Edit section: Other terms">edit</a>]</span> <span class="mw-headline" id="Other_terms">Other terms</span></h2>
+<ul>
+<li>Students who are <a href="/wiki/Grade_retention" title="Grade retention">repeating a grade level of schooling due to poor grades</a> are sometimes referred to as having been "held back" or "kept back". In Singapore they are described as "retained". In the Philippines they are called "repeater".</li>
+</ul>
+<ul>
+<li>The term 'pupil' (originally a Latin term for a minor as the ward of an adult guardian, etc.) is used in some Commonwealth <a href="/wiki/Primary_school" title="Primary school">primary</a> and <a href="/wiki/Secondary_school" title="Secondary school">secondary</a> schools (particularly in England and Wales) instead of "student", but once attending higher education such as <a href="/wiki/Sixth-form" title="Sixth-form" class="mw-redirect">sixth-form</a> college, etc., the term "student" is standard.</li>
+</ul>
+<ul>
+<li>The <a href="/wiki/United_States_military_academies" title="United States military academies" class="mw-redirect">United States military academies</a> officially use only numerical terms, but there are colloquial expressions used in everyday speech. In order from first year to fourth year, students are referred to as "fourth-class", "third-class", "second-class", and "first-class" cadets or midshipmen. Unofficially, other terms are used, for example at the United States Military Academy, freshmen are called "plebes", sophomores are called "yearlings" or "yuks", juniors are called "cows", and seniors are called "firsties". Some universities also use numerical terms to identify classes; students enter as "first-years" and graduate as "fourth-years" (or, in some cases, "fifth-years", "sixth-years", etc.).</li>
+</ul>
+<ul>
+<li>In the United States, a "gunner" is a term for a hyper competitive student. The term usually references a legal, medical or dental student. Gunners will do whatever it takes to be the best. This ranges from working very hard to sabotaging peers.<sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from May 2012">citation needed</span></a></i>]</sup> The gunners are normally either concerned with getting into a professional school or excelling in the professional school to continue on to a specialty.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=25" title="Edit section: Idiomatic use">edit</a>]</span> <span class="mw-headline" id="Idiomatic_use">Idiomatic use</span></h2>
+<p>"<a href="/wiki/Freshman" title="Freshman">Freshman</a>" and "<a href="/wiki/Sophomore" title="Sophomore">sophomore</a>" are sometimes used <a href="/wiki/Literal_and_figurative_language" title="Literal and figurative language">figuratively</a>, almost exclusively in the United States, to refer to a first or second effort ("the singer's <i>sophomore</i> <a href="/wiki/Album" title="Album">album</a>"), or to a <a href="/wiki/Politician" title="Politician">politician</a>'s first or second term in office ("freshman senator") or an <a href="/wiki/Sportsperson" title="Sportsperson">athlete</a>'s first or second year on a <a href="/wiki/Professional_sports_team" title="Professional sports team" class="mw-redirect">professional sports team</a>. "Junior" and "senior" are not used in this figurative way to refer to third and fourth years or efforts, because of those words' broader meanings of "<a href="//en.wiktionary.org/wiki/younger" class="extiw" title="wikt:younger">younger</a>" and "<a href="//en.wiktionary.org/wiki/older" class="extiw" title="wikt:older">older</a>." A <a href="/wiki/Junior_senator" title="Junior senator" class="mw-redirect">junior senator</a> is therefore not one who is in a third term of office, but merely one who has not been in the Senate as long as the other senator from their <a href="/wiki/State_(United_States)" title="State (United States)" class="mw-redirect">state</a>. Confusingly, this means that it is possible to be both a "freshman Senator" and a "senior Senator" simultaneously: for example, if a Senator wins election in 2008, and then the other Senator from the same state steps down and a new Senator elected in 2010, the former Senator is both senior Senator (as in the Senate for two years more) and a freshman Senator (since still in the first term).</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=26" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<table class="metadata plainlinks mbox-small" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td colspan="2" style="margin: auto; text-align: center">Find more about <b>student</b> on Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">sister projects</a>:</td>
+</tr>
+<tr>
+<td><a href="//en.wiktionary.org/wiki/Special:Search/student" title="Search Wiktionary"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/23px-Wiktionary-logo-en.svg.png" width="23" height="25" /></a></td>
+<td><a class="external text" href="//en.wiktionary.org/wiki/Special:Search/student">Definitions and translations</a> from Wiktionary<br /></td>
+</tr>
+<tr>
+<td><a href="//commons.wikimedia.org/wiki/Special:Search/student" title="Search Commons"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" /></a></td>
+<td><a class="external text" href="//commons.wikimedia.org/wiki/Special:Search/student">Images and media</a> from Commons<br /></td>
+</tr>
+<tr>
+<td><a href="//en.wikiversity.org/wiki/Special:Search/student" title="Search Wikiversity"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" width="25" height="23" /></a></td>
+<td><a class="external text" href="//en.wikiversity.org/wiki/Special:Search/student">Learning resources</a> from Wikiversity<br /></td>
+</tr>
+<tr>
+<td><a href="//en.wikinews.org/wiki/Special:Search/student" title="Search Wikinews"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" width="25" height="14" /></a></td>
+<td><a class="external text" href="//en.wikinews.org/wiki/Special:Search/student">News stories</a> from Wikinews<br /></td>
+</tr>
+<tr>
+<td><a href="//en.wikiquote.org/wiki/Special:Search/student" title="Search Wikiquote"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" /></a></td>
+<td><a class="external text" href="//en.wikiquote.org/wiki/Special:Search/student">Quotations</a> from Wikiquote<br /></td>
+</tr>
+<tr>
+<td><a href="//en.wikisource.org/wiki/Special:Search/student" title="Search Wikisource"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" /></a></td>
+<td><a class="external text" href="//en.wikisource.org/wiki/Special:Search/student">Source texts</a> from Wikisource<br /></td>
+</tr>
+<tr>
+<td><a href="//en.wikibooks.org/wiki/Special:Search/student" title="Search Wikibooks"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" /></a></td>
+<td><a class="external text" href="//en.wikibooks.org/wiki/Special:Search/student">Textbooks</a> from Wikibooks<br /></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Student_accommodation" title="Student accommodation" class="mw-redirect">Student accommodation</a></li>
+<li><a href="/wiki/Student_activism" title="Student activism">Student activism</a></li>
+<li><a href="/wiki/Student_bullying" title="Student bullying" class="mw-redirect">Student bullying</a></li>
+<li><a href="/wiki/Students_bullying_teachers" title="Students bullying teachers" class="mw-redirect">Students bullying teachers</a></li>
+<li><a href="/wiki/Teachers_bullying_students" title="Teachers bullying students" class="mw-redirect">Teachers bullying students</a></li>
+<li><a href="/wiki/Bullying_in_academia" title="Bullying in academia">Bullying in academia</a></li>
+<li><a href="/wiki/Freshman_fifteen" title="Freshman fifteen">Freshman fifteen</a></li>
+<li><a href="/wiki/International_student" title="International student">International student</a></li>
+<li><a href="/wiki/Student_orientation" title="Student orientation">Student orientation</a></li>
+<li><a href="//en.wiktionary.org/wiki/sophomore" class="extiw" title="wiktionary:sophomore">Sophomore</a></li>
+<li>Student resources
+<ul>
+<li><a href="/wiki/Guidance_Counseling" title="Guidance Counseling" class="mw-redirect">Guidance Counseling</a></li>
+<li><a href="/wiki/Student_financial_aid" title="Student financial aid" class="mw-redirect">Student financial aid</a></li>
+<li><a href="/wiki/Study_skills" title="Study skills">Study skills</a></li>
+<li><a href="/wiki/Tutoring" title="Tutoring" class="mw-redirect">Tutoring</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Studentification" title="Studentification">Studentification</a></li>
+<li><a href="/wiki/University_student_retention" title="University student retention">University student retention</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Student&amp;action=edit&amp;section=27" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.universitiesuk.ac.uk/Publications/Documents/studentification_guide.pdf:">Studentification: A Guide to Opportunities, Challenges and Practice</a></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?search=sophomore&amp;searchmode=none">Online Etymology Dictionary</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.doubletongued.org/index.php/dictionary/super_senior/">Definition of a super senior</a> retrieved 5 October 2006.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Minnesota Vocational and Technical Schools; <a rel="nofollow" class="external free" href="http://www.rwm.org/rwm/tf_min.html">http://www.rwm.org/rwm/tf_min.html</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.princeton.edu/mudd/news/faq/topics/pranks.shtml">Seeley G. Mudd Manuscript Library: FAQ Student pranks</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kiwiblog.co.nz/2006/10/student_pranks.html">Kiwiblog&#160;» Blog Archive&#160;» Student Pranks</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Watts, Jonathan, <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/china/story/0,7369,1075600,00.html">"Student prank that gave the Chinese a fit of the willies"</a>, <i>The Guardian</i>, London, 1 November 2003.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.epigram.org.uk/view.php?id=1503">Epigram Online - Alarming consequences for student pranks</a><sup class="noprint Inline-Template"><span title="&#160;since February 2012" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ayala, Jamie, <a rel="nofollow" class="external text" href="http://www.fox11az.com/news/topstories/stories/kmsb-20070614-PEjc-prank.338b9df.html">"Sticky student prank injures teacher"</a>, <i>FOX11AZ.com</i>, Tucson, Arizona, 14 June 2007.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hero.ac.uk/uk/studying/archives/2001/nightmare_on_student_stre901.cfm">Nightmare on student street</a><sup class="noprint Inline-Template"><span title="&#160;since February 2012" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Miller, Eli, <a rel="nofollow" class="external text" href="http://www.dailycal.org/article.php?id=10351">"Oski and Tree Have Rowdy, Long History"</a><sup class="noprint Inline-Template"><span title="&#160;since February 2012" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup>, <i>The Daily Californian</i>, 22 November 2002.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Peterson, T.F., <i>Nightwork: A History of Hacks and Pranks at MIT</i>, 2003.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Steinberg, Neil, <i>If at All Possible, Involve a Cow: The Book of College Pranks</i>, 1992.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boston.com/news/globe/city_region/breaking_news/2006/09/mit_hacks_mark_1.html">"MIT 'hacks' mark Sept. 11 with a fake fire truck"</a>, <i>The Boston Globe</i>, 11 September 2006.</span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 4873/1000000
+Post-expand include size: 38481/2048000 bytes
+Template argument size: 16174/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 11/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:155526-0!*!0!!en!4!* and timestamp 20120705191518 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Student&amp;oldid=500591102">http://en.wikipedia.org/w/index.php?title=Student&amp;oldid=500591102</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Students" title="Category:Students">Students</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_February_2012" title="Category:Articles with dead external links from February 2012">Articles with dead external links from February 2012</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_February_2012" title="Category:Articles needing cleanup from February 2012">Articles needing cleanup from February 2012</a></li><li><a href="/wiki/Category:All_articles_needing_cleanup" title="Category:All articles needing cleanup">All articles needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_February_2012" title="Category:Cleanup tagged articles without a reason field from February 2012">Cleanup tagged articles without a reason field from February 2012</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_February_2012" title="Category:Wikipedia pages needing cleanup from February 2012">Wikipedia pages needing cleanup from February 2012</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2012" title="Category:Articles needing additional references from May 2012">Articles needing additional references from May 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2008" title="Category:Articles with unsourced statements from February 2008">Articles with unsourced statements from February 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2011" title="Category:Articles with unsourced statements from April 2011">Articles with unsourced statements from April 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Student&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Student" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Student"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Student"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Student" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Student&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Student&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Student" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Student" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Student&amp;oldid=500591102" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Student&amp;id=500591102" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Student" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Student&amp;oldid=500591102&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Student&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Student" title="Student" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%84%D8%A8" title="طالب" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-an"><a href="//an.wikipedia.org/wiki/Estudiant" title="Estudiant" lang="an" hreflang="an">Aragonés</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/T%C9%99l%C9%99b%C9%99" title="Tələbə" lang="az" hreflang="az">Azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82" title="Студент" lang="bg" hreflang="bg">Български</a></li>
+			<li class="interwiki-bo"><a href="//bo.wikipedia.org/wiki/%E0%BD%A6%E0%BE%B3%E0%BD%BC%E0%BD%96%E0%BC%8B%E0%BD%95%E0%BE%B2%E0%BD%B4%E0%BD%82%E0%BC%8B" title="སློབ་ཕྲུག་" lang="bo" hreflang="bo">བོད་ཡིག</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Student" title="Student" lang="bs" hreflang="bs">Bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Estudiant" title="Estudiant" lang="ca" hreflang="ca">Català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Student" title="Student" lang="cs" hreflang="cs">Česky</a></li>
+			<li class="interwiki-cy"><a href="//cy.wikipedia.org/wiki/Myfyriwr" title="Myfyriwr" lang="cy" hreflang="cy">Cymraeg</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Student" title="Student" lang="da" hreflang="da">Dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Student" title="Student" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Estudiante" title="Estudiante" lang="es" hreflang="es">Español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Studanto" title="Studanto" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Ikasle" title="Ikasle" lang="eu" hreflang="eu">Euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D8%B4%E2%80%8C%D8%A2%D9%85%D9%88%D8%B2" title="دانش‌آموز" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/%C3%89tudiant" title="Étudiant" lang="fr" hreflang="fr">Français</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%95%99%EC%83%9D" title="학생" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%88%D6%82%D5%BD%D5%A1%D5%B6%D5%B8%D5%B2" title="Ուսանող" lang="hy" hreflang="hy">Հայերեն</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A5%80" title="विद्यार्थी" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Student" title="Student" lang="hr" hreflang="hr">Hrvatski</a></li>
+			<li class="interwiki-io"><a href="//io.wikipedia.org/wiki/Studento" title="Studento" lang="io" hreflang="io">Ido</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Peserta_didik" title="Peserta didik" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-is"><a href="//is.wikipedia.org/wiki/Nemandi" title="Nemandi" lang="is" hreflang="is">Íslenska</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Studente" title="Studente" lang="it" hreflang="it">Italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%9C%D7%9E%D7%99%D7%93" title="תלמיד" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82" title="Студент" lang="kk" hreflang="kk">Қазақша</a></li>
+			<li class="interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%87%D0%B8%D0%BB%D0%B8%D0%BA" title="Студентчилик" lang="ky" hreflang="ky">Кыргызча</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Students" title="Students" lang="lv" hreflang="lv">Latviešu</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Studentas" title="Studentas" lang="lt" hreflang="lt">Lietuvių</a></li>
+			<li class="interwiki-ln"><a href="//ln.wikipedia.org/wiki/Moy%C3%A9koli" title="Moyékoli" lang="ln" hreflang="ln">Lingála</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%A6%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B5%BC%E0%B4%A4%E0%B5%8D%E0%B4%A5%E0%B4%BF" title="വിദ്യാർത്ഥി" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Pelajar" title="Pelajar" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Student" title="Student" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%9C%A8%E7%B1%8D%E8%80%85_(%E5%AD%A6%E7%BF%92%E8%80%85)" title="在籍者 (学習者)" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Student" title="Student" lang="no" hreflang="no">‪norsk (bokmål)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Student" title="Student" lang="pl" hreflang="pl">Polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Aluno" title="Aluno" lang="pt" hreflang="pt">Português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Student" title="Student" lang="ro" hreflang="ro">Română</a></li>
+			<li class="interwiki-qu"><a href="//qu.wikipedia.org/wiki/Yachay_munaq" title="Yachay munaq" lang="qu" hreflang="qu">Runa Simi</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82" title="Студент" lang="ru" hreflang="ru">Русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Student" title="Student" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Vysoko%C5%A1kolsk%C3%BD_%C5%A1tudent" title="Vysokoškolský študent" lang="sk" hreflang="sk">Slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/%C5%A0tudent" title="Študent" lang="sl" hreflang="sl">Slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82" title="Студент" lang="sr" hreflang="sr">Српски / srpski</a></li>
+			<li class="interwiki-sh"><a href="//sh.wikipedia.org/wiki/Student" title="Student" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Opiskelija" title="Opiskelija" lang="fi" hreflang="fi">Suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Student" title="Student" lang="sv" hreflang="sv">Svenska</a></li>
+			<li class="interwiki-tl"><a href="//tl.wikipedia.org/wiki/Mag-aaral" title="Mag-aaral" lang="tl" hreflang="tl">Tagalog</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99" title="นักเรียน" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-tg"><a href="//tg.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B8%D1%88%D2%B7%D3%AF" title="Донишҷӯ" lang="tg" hreflang="tg">Тоҷикӣ</a></li>
+			<li class="interwiki-chy"><a href="//chy.wikipedia.org/wiki/H%C3%A9ne%27enov%C3%A2h%C3%A9tane" title="Héne'enovâhétane" lang="chy" hreflang="chy">Tsetsêhestâhese</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/%C3%96%C4%9Frenci" title="Öğrenci" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82" title="Студент" lang="uk" hreflang="uk">Українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D9%85%D8%AA%D8%B9%D9%84%D9%85" title="متعلم" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-ug"><a href="//ug.wikipedia.org/wiki/%D8%A6%D9%88%D9%82%DB%87%D8%BA%DB%87%DA%86%D9%89" title="ئوقۇغۇچى" lang="ug" hreflang="ug">ئۇيغۇرچە / Uyghurche</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Sinh_vi%C3%AAn" title="Sinh viên" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%A1%D7%98%D7%95%D7%93%D7%A2%D7%A0%D7%98" title="סטודענט" lang="yi" hreflang="yi">ייִדיש</a></li>
+			<li class="interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E5%AD%B8%E7%94%9F" title="學生" lang="zh-yue" hreflang="zh-yue">粵語</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%AD%A6%E7%94%9F" title="学生" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 July 2012 at 03:12.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Student&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf6/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw13 in 0.188 secs. -->
+	</body>
+</html>

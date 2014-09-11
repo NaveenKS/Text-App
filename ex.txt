@@ -1,0 +1,2085 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>List of Metropolitan bus routes in Bangalore - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_Metropolitan_bus_routes_in_Bangalore","wgTitle":"List of Metropolitan bus routes in Bangalore","wgCurRevisionId":497729335,"wgArticleId":26797759,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2011","Orphaned articles from April 2011","All orphaned articles","Wikipedia articles needing context from April 2011","All Wikipedia articles needing context","Wikipedia introduction cleanup from April 2011","All pages needing cleanup","Transport in Bangalore","Bus transport in India","Lists of bus routes","Public transport in India"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"List_of_Metropolitan_bus_routes_in_Bangalore","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"4a5d0f535fc35e26f9e80ff665fd9ea3","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_Metropolitan_bus_routes_in_Bangalore skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">List of Metropolitan bus routes in Bangalore</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br /></p>
+<table class="metadata plainlinks ambox ambox-style ambox-Orphan" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" /></a></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>is an <a href="/wiki/Wikipedia:Orphan" title="Wikipedia:Orphan">orphan</a>, as no other articles <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:Whatlinkshere&amp;target=List_of_Metropolitan_bus_routes_in_Bangalore&amp;namespace=0">link to it</a></b>. <span class="hide-when-compact">Please <a href="/wiki/Help:Link" title="Help:Link">introduce links</a> to this page from <a class="external text" href="http://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;redirs=1&amp;search=List+of+Metropolitan+bus+routes+in+Bangalore&amp;fulltext=Search&amp;ns0=1&amp;title=Special%3ASearch&amp;advanced=1&amp;fulltext=List+of+Metropolitan+bus+routes+in+Bangalore">related articles</a>; <a rel="nofollow" class="external text" href="http://edwardbetts.com/find_link?q=List_of_Metropolitan_bus_routes_in_Bangalore">suggestions may be available</a>.</span> <small><i>(April 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-style ambox-Context" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article <b>provides insufficient context for those unfamiliar with the subject</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit">improve the article</a> with a <a href="/wiki/Wikipedia:Writing_better_articles#Lead_section" title="Wikipedia:Writing better articles">good introductory style</a>.</span> <small><i>(April 2011)</i></small></span></td>
+</tr>
+</table>
+<p>Bangalore Metropolitan Transport Corporation (BMTC) rus the city bus services in Bangalore City of South India. It is one of the 4 divisions of KSRTC (Karnataka State Road Transport corporation) and owned by Government of Karnataka.</p>
+<p>It operates different types of route within the city as well to some portion of the outskirts. The following are a list of various routes that <a href="/wiki/Bangalore_Metropolitan_Transport_Corporation" title="Bangalore Metropolitan Transport Corporation">Bangalore Metropolitan Transport Corporation</a> (or BMTC) operates.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_routes"><span class="tocnumber">1</span> <span class="toctext">General routes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Feeder_Routes"><span class="tocnumber">2</span> <span class="toctext">Feeder Routes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#BigConnect"><span class="tocnumber">2.1</span> <span class="toctext">BigConnect</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Feeder"><span class="tocnumber">2.2</span> <span class="toctext">Feeder</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Metro_Feeder"><span class="tocnumber">2.3</span> <span class="toctext">Metro Feeder</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Other_Routes"><span class="tocnumber">3</span> <span class="toctext">Other Routes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#BETL_Routes"><span class="tocnumber">3.1</span> <span class="toctext">BETL Routes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Trunk_routes"><span class="tocnumber">3.2</span> <span class="toctext">Trunk routes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Direction-based_routes"><span class="tocnumber">4</span> <span class="toctext">Direction-based routes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Big_10"><span class="tocnumber">4.1</span> <span class="toctext">Big 10</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Blue_Route"><span class="tocnumber">4.2</span> <span class="toctext">Blue Route</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Big_Circle"><span class="tocnumber">4.3</span> <span class="toctext">Big Circle</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#K_service"><span class="tocnumber">4.4</span> <span class="toctext">K service</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Airport_Services"><span class="tocnumber">4.5</span> <span class="toctext">Airport Services</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Related_pages"><span class="tocnumber">5</span> <span class="toctext">Related pages</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=1" title="Edit section: General routes">edit</a>]</span> <span class="mw-headline" id="General_routes">General routes</span></h2>
+<p>These buses have the normal numbers but criss cross the city.</p>
+<p>278 Bhoopasandra Shivajinagar 279 Bhoopasandra Kempegowda Bus Station</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Jayanagar 9th block Petrol Pump</td>
+<td>Yeshvantapur Railway Station</td>
+<td>Jayanagar 4th block, South end, Gandhi bazaar, Good shed road, majestic, Malleshwaram</td>
+</tr>
+<tr>
+<td>2</td>
+<td>KBS (Majestic)</td>
+<td>J.P.Nagar 6th Phase</td>
+<td>SSMRV, Jayanagar, Lalbagh, Townhall</td>
+</tr>
+<tr>
+<td>2A</td>
+<td>KBS(Majestic)</td>
+<td>IG - Indira Gandhi circle</td>
+<td>SSMRV, Jayanagar, Lalbagh, Townhall</td>
+</tr>
+<tr>
+<td>2B</td>
+<td>KBS(Majestic)</td>
+<td>Eliyas Nagar</td>
+<td>JP nagar 15th Cross, SSMRV, Tel Exchange</td>
+</tr>
+<tr>
+<td>2F</td>
+<td>J.P.Nagar 6th Phase</td>
+<td>Basaveshwaranagar</td>
+<td>Lalbagh, corporation, majestic, Sujatha Talkies</td>
+</tr>
+<tr>
+<td>3B</td>
+<td>Banashankari 3rd Stage 2nd Phase</td>
+<td>Jayanagar 9th Block</td>
+<td>Ramakrishna Ashram, Gandhi Bazaar</td>
+</tr>
+<tr>
+<td>3E</td>
+<td>Banashankari 3rd Stage 2nd Phase</td>
+<td>BTM Layout</td>
+<td>Gandhi Bazaar, Jayanagar 4th block, East End</td>
+</tr>
+<tr>
+<td>12</td>
+<td>KBS(Majestic)</td>
+<td>Banashankari</td>
+<td>Lalbagh, Nanda Theatre, Sangam Circle</td>
+</tr>
+<tr>
+<td>12A</td>
+<td>KBS (Majestic)</td>
+<td>Banashankari 2nd Stage</td>
+<td>Lalbagh, Yediyur, MonoType</td>
+</tr>
+<tr>
+<td>12B</td>
+<td>KBS(Majestic)</td>
+<td>Padmanabhnagar</td>
+<td>Lalbagh, Yediyur, Banashankari BDA Complex</td>
+</tr>
+<tr>
+<td>12E</td>
+<td>KBS(Majestic)</td>
+<td>Banashankari Bus Stand</td>
+<td>Lalbagh, Yediyur, Jayanagar 7th Block</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="/wiki/Banashankari" title="Banashankari">Banashankari</a></td>
+<td><a href="/wiki/Shivajinagar" title="Shivajinagar">Shivajinagar</a></td>
+<td>Jayanagar 4th Block, Shantinagar bus stand</td>
+</tr>
+<tr>
+<td>13B</td>
+<td><a href="/wiki/Padmanabhanagar" title="Padmanabhanagar">Padmanabhanagar</a></td>
+<td><a href="/wiki/Shivajinagar" title="Shivajinagar">Shivajinagar</a></td>
+<td>Banashankari, Jayanagar 4th Block, Shantinagar bus stand</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Banashankari</td>
+<td>Malleshwaram Bus Station</td>
+<td>Shanthi Talkies, Gandhi Bazaar, Chamrajpet, KR Market, Corporation, Swastik</td>
+</tr>
+<tr>
+<td>15A</td>
+<td>KR market</td>
+<td>Padmanabhanagar</td>
+<td>Basavanagudi, Kumaraswamy layout</td>
+</tr>
+<tr>
+<td>15E</td>
+<td>Majestic</td>
+<td>Kumaraswamy Layout</td>
+<td>KR market, Basavanagudi</td>
+</tr>
+<tr>
+<td>21 (Pushpak)</td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a></td>
+<td><a href="/wiki/Mathikere" title="Mathikere">Mathikere</a></td>
+<td>K.R.Road, Basavanagudi Police station, Chamrajpet, Good Shed Road, Majestic bus stand(Outside), Malleshwaram</td>
+</tr>
+<tr>
+<td>25</td>
+<td>KBS(majestic)</td>
+<td>BTM Layout (Kuvempunagar</td>
+<td>Corporation, Lalbagh, Ashoka Pillar, Jayanagar 4<sup>th</sup> Block, Sanjay Gandhi Hospital, Jayanager East End (Jayadeva Hospital), Udupi Garden</td>
+</tr>
+<tr>
+<td>25 E</td>
+<td>KBS (Majestic)</td>
+<td>J.P.Nagar 3rd phase</td>
+<td>Corporation, Lalbagh, Ashoka Pillar, Jayanagar 4<sup>th</sup> Block, Sanjay Gandhi Hospital, Jayanager East End (Jayadeva Hospital)</td>
+</tr>
+<tr>
+<td>26</td>
+<td>KBS(Majestic)</td>
+<td>Byrasandra</td>
+<td>Ashoka Piller, Siddapura</td>
+</tr>
+<tr>
+<td>30</td>
+<td>NR Colony</td>
+<td>Ganganagar</td>
+<td>Gandhi Bazaar, Chamrajpet, KR Market, Corporation, Kavery Bhavan, Vasanth Nagar, JC Nagar, Rehmath Nagar</td>
+</tr>
+<tr>
+<td>33E</td>
+<td>Banashankari 3rd Stage 2nd Phase</td>
+<td>Kamalanagar</td>
+<td>Chamrajpet, K.R.Market, town Hall, Mysore Bank Circle, Shivananda circle, Malleshwaram Circle</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Hosakerehalli</td>
+<td>Shivajinagar</td>
+<td>Srinivasanagar, Ramkrishna Ashram, Lalbagh West Gate, Shantinagar</td>
+</tr>
+<tr>
+<td>38</td>
+<td>N R Colony</td>
+<td>Domlur</td>
+<td>Double Road, Richmond Circle, Brigade Road, M G Road, Trinity Circle, C M H Road, Indiranagar</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Malleswaram Bus Station</td>
+<td>Gandhi Bazaar</td>
+<td>Malleswaram 8th Cross, Swastik, Corporation, Lal Bagh Main gate</td>
+</tr>
+<tr>
+<td>43B</td>
+<td>Hosakerehalli</td>
+<td>KBS (Majestic)</td>
+<td>Srinivasnagar, Ganesh Bhavan, Ramkrishna Ashram, Uma Talkies, K.R. Market, Corporation</td>
+</tr>
+<tr>
+<td>43E</td>
+<td>KBS(Majestic)</td>
+<td>Banashankari 3rd Stage 2nd Phase</td>
+<td>Srinivasnagar, Ganesh Bhavan, Ramkrishna Ashram, Uma Talkies, K.R. Market, Corporation</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Banashankari 3rd Stage 2nd Phase</td>
+<td>RT Nagar</td>
+<td>Banashankari 1st stage, Hanmanthnagara Ward Office, Chamrajpet, KR Market, Cantonment Railway Station, JC Nagar, Rehmat Nagar</td>
+</tr>
+<tr>
+<td>57A</td>
+<td>KBS(Majestic)</td>
+<td>Bapuji Nagar</td>
+<td>Mysore road</td>
+</tr>
+<tr>
+<td>59</td>
+<td>Vijayanagar</td>
+<td>K.R Market</td>
+<td>Maruti mandir(Vijayanagar), Garage(Vijayanagar Garage), Attiguppe(Vijayanagar), Deepanjali Nagar, Baapuji Nagar, Chamarajpet, Ram mandir (chamarajpet), Makkalakoota, K.R Market.</td>
+</tr>
+<tr>
+<td>60A</td>
+<td>Jayanagar 9th Block</td>
+<td>Vijayanagar</td>
+<td>Jayanagar 9th block, Jayanagar South End, Gandhi Bazaar, Mysore Road Satellite Bus station</td>
+</tr>
+<tr>
+<td>60E</td>
+<td>BTM layout</td>
+<td><a href="/wiki/Vijayanagar,_Bangalore" title="Vijayanagar, Bangalore">Vijayanagar</a> via 60A</td>
+</tr>
+<tr>
+<td>61</td>
+<td>KBS(Majestic)</td>
+<td>Vijaynagar</td>
+<td></td>
+</tr>
+<tr>
+<td>61A,G</td>
+<td>KBS(Majestic)</td>
+<td>Chandra Layout</td>
+<td>Vijay nagar</td>
+</tr>
+<tr>
+<td>61B</td>
+<td>KBS(Majestic)</td>
+<td>Vijaynagar (Maruthi Mandir)</td>
+<td></td>
+</tr>
+<tr>
+<td>61C</td>
+<td>KBS(Majestic)</td>
+<td>BCC layout</td>
+<td>Vijay nagar, Rajajinagar 6th Block, Sujatha</td>
+</tr>
+<tr>
+<td>61J</td>
+<td>KBS(Majestic)</td>
+<td>Chandra Layout 1st Stage</td>
+<td>Vijay nagar</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Shivajinagar</td>
+<td>Vijaynagar</td>
+<td></td>
+</tr>
+<tr>
+<td>64</td>
+<td>Shivajinagar</td>
+<td>Hampinagar(RPC Layout)</td>
+<td>Vijay nagar, West of chord road,Yeshwantpur</td>
+</tr>
+<tr>
+<td>65B</td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a></td>
+<td><a href="/w/index.php?title=K.H.B.Colony&amp;action=edit&amp;redlink=1" class="new" title="K.H.B.Colony (page does not exist)">K.H.B.Colony</a></td>
+<td>via South end,Gandhi bazaar,Chamrajpet,Magadi Road</td>
+</tr>
+<tr>
+<td>75</td>
+<td>Malleshwaram 18th cross</td>
+<td>Vijayanagar</td>
+<td>Rajajinagar</td>
+</tr>
+<tr>
+<td>75B</td>
+<td>Mathikere</td>
+<td>Vijayanagar</td>
+<td>Malleshwaram, Srirampuram, Rajajinagar</td>
+</tr>
+<tr>
+<td>77B</td>
+<td>N.R.Colony</td>
+<td>Mahalakshmi Layout</td>
+<td>Chamrajpet, Magadi Road</td>
+</tr>
+<tr>
+<td>77C</td>
+<td>N.R.Colony</td>
+<td>Nandini Layout</td>
+</tr>
+<tr>
+<td>80A</td>
+<td>Nandini Layout</td>
+<td>KBS (Majestic)</td>
+<td>Saraswathipura, Rajajinagar 1st Block, Navrang, ESI, Ramamandir, Sujatha Talkies, Okalipuram</td>
+</tr>
+<tr>
+<td>80B</td>
+<td>JaiMaruthinagar</td>
+<td>KBS (Majestic)</td>
+<td>Nandini Layout, Saraswathipura, Rajajinagar 1st Block, Navrang, ESI, Ramamandir, Sujatha Talkies, Okalipuram</td>
+</tr>
+<tr>
+<td>80C</td>
+<td>Goraguntepalya</td>
+<td>KBS (Majestic)</td>
+<td>Nandini Layout, Saraswathipura, Rajajinagar 1st Block, Navrang, ESI, Ramamandir, Sujatha Talkies, Okalipuram</td>
+</tr>
+<tr>
+<td>86E</td>
+<td>Jayanagar 9th Block</td>
+<td>K.H.B.Colony</td>
+<td>Jayanagar 4th block, Kempegowda Bus Station, Magadi Road</td>
+</tr>
+<tr>
+<td>87</td>
+<td>KBS(Majestic)</td>
+<td>Hampinagar</td>
+<td>Okallipuram, Magadi Road, Prasanna, Tollgate, Pipe Line, Railway Gate</td>
+</tr>
+<tr>
+<td>88</td>
+<td>KBS(Majestic)</td>
+<td>Basaveshwara Nagar</td>
+<td>Sujatha, Ram Mandir</td>
+</tr>
+<tr>
+<td>88A</td>
+<td>KBS(Majestic)</td>
+<td>Basaveshwara Nagar 3rd Stage</td>
+<td>Sujatha</td>
+</tr>
+<tr>
+<td>96</td>
+<td>KBS(Majestic)</td>
+<td>KBS(Majestic)</td>
+<td>central,malleshwaram,rajajinagar,modi hospital,basaweshwaranagar,sujatha</td>
+</tr>
+<tr>
+<td>90E</td>
+<td><a href="/wiki/Majestic" title="Majestic">Majestic</a></td>
+<td><a href="/wiki/Yeshvantapur_Railway_Station" title="Yeshvantapur Railway Station">Yeshvantapur Railway Station</a></td>
+<td>Malleshwaram 8th main</td>
+</tr>
+<tr>
+<td>96A</td>
+<td>KBS(Majestic)</td>
+<td>KBS(Majestic)</td>
+<td>sujatha,basaveshwaranagar,modi hospital,rajajinagar,malleshwaram,central</td>
+</tr>
+<tr>
+<td>96B</td>
+<td>KBS(Majestic)</td>
+<td>Kamala nagar BEML layout</td>
+<td>sujatha,basaveshwaranagar</td>
+</tr>
+<tr>
+<td>96C</td>
+<td>KBS(Majestic)</td>
+<td>Kamala nagar</td>
+<td>sujatha,ram mandir,basaveshwarnagar</td>
+</tr>
+<tr>
+<td>96D</td>
+<td>KBS(Majestic)</td>
+<td>Kamala nagar</td>
+<td>Central, Devaiah park, Modi Hospital</td>
+</tr>
+<tr>
+<td>96F</td>
+<td>KBS(Majestic)</td>
+<td>Bhimjyoti Nagar</td>
+<td>Modi Hospital(Basaveshwarnagar)</td>
+</tr>
+<tr>
+<td>99E</td>
+<td>KBS(Majestic)</td>
+<td>Chowdeshwari/JP nagar bus station</td>
+<td></td>
+</tr>
+<tr>
+<td>100E</td>
+<td>Sadashivanagar</td>
+<td>BTM Layout</td>
+<td>Mount Carmel, Shivajinagar, Shantinagar, Adugodi, Koramangla</td>
+</tr>
+<tr>
+<td>104</td>
+<td>Sadashivanagar</td>
+<td>Majestic</td>
+<td>Sadashivanagar, Guttahalli Main ROad, Link Road, Central</td>
+</tr>
+<tr>
+<td>107D</td>
+<td>R.T.Nagar</td>
+<td>J.P.Nagar 3rd phase</td>
+<td>Shivajinagar, Jayanagar 4th block</td>
+</tr>
+<tr>
+<td>112E</td>
+<td>Kaval Byrasandra</td>
+<td>BTM Layout</td>
+<td>Indian Express, Richmond Cirlce, Koramangala</td>
+</tr>
+<tr>
+<td>115A</td>
+<td>Kaval Byrasandra</td>
+<td>Kamala Nagar</td>
+<td>CBI, Shankar Mutt</td>
+</tr>
+<tr>
+<td>114E</td>
+<td>SultanPalya</td>
+<td>Banashankari</td>
+<td>Indian Express, Corporation, KR Market</td>
+</tr>
+<tr>
+<td>115</td>
+<td>KBS(Majestic)</td>
+<td>Ananda Nagar</td>
+<td>RT Nagar, Matadahalli, KG road</td>
+</tr>
+<tr>
+<td>119A</td>
+<td>KBS(Majestic)</td>
+<td>Chinnapa Garden</td>
+<td>KG Road</td>
+</tr>
+<tr>
+<td>124</td>
+<td>KBS(Majestic)</td>
+<td>Chinnapa Garden</td>
+<td>CQAL, Borebank Road</td>
+</tr>
+<tr>
+<td>131,131F</td>
+<td>KBS(Majestic)</td>
+<td>Domlur bus station</td>
+<td>100&#160;ft road Indiranagar, Ulsoor</td>
+</tr>
+<tr>
+<td>137</td>
+<td>Yeshvantapur</td>
+<td>Domlur</td>
+<td>Malleshwaram, Mount Carmel, Indian Express, Ulsoor, Indiranagar</td>
+</tr>
+<tr>
+<td>137A</td>
+<td>Yeshvanthpur</td>
+<td>Jeevan Bhima Nagar</td>
+<td>Malleshwaram, Mount Carmel, Indian Express, Ulsoor, Indiranagar</td>
+</tr>
+<tr>
+<td>138</td>
+<td>Kempegowda Bus Station</td>
+<td>Jeevan Bhima Nagar</td>
+<td>Corporation, Residency Road, MG Road, Ulsoor, Indiranagar, Thippasandra Cross</td>
+</tr>
+<tr>
+<td>138D</td>
+<td>Kempegowda Bus Station</td>
+<td>Jeevan Bhima Nagar</td>
+<td>Vidhana Soudha, Shivajinagar, Ulsoor, Indiranagar, Thippasandra Cross</td>
+</tr>
+<tr>
+<td>139</td>
+<td>Shivajinagar</td>
+<td>Jeevan Bhima Nagar</td>
+<td>Ulsoor, Indiranagar, Thippasandra Cross</td>
+</tr>
+<tr>
+<td>144G</td>
+<td>SultanPalya</td>
+<td>Rose Garden Viveknagar</td>
+<td>Shivajinagar</td>
+</tr>
+<tr>
+<td>144H</td>
+<td>Nandini Layout</td>
+<td>Nellasandra</td>
+<td>Yeshvantapur, Mekhri Circle, Shivajinagar</td>
+</tr>
+<tr>
+<td>144K</td>
+<td>Kaval Byrasandra</td>
+<td>Rose Garden</td>
+<td>Shivajinagar</td>
+</tr>
+<tr>
+<td>162A</td>
+<td>KBS (Majestic)</td>
+<td>Madivala</td>
+<td>Jayanagar 4<sup>th</sup>block, BTM Layout, Silk Board</td>
+</tr>
+<tr>
+<td>173</td>
+<td>Yeshvantapur</td>
+<td>Koramangala</td>
+<td>Kempegowda Bus Station, Shantinagar</td>
+</tr>
+<tr>
+<td>173A</td>
+<td>Mathikere</td>
+<td>Koramangala</td>
+<td>173</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="/w/index.php?title=Koramangla&amp;action=edit&amp;redlink=1" class="new" title="Koramangla (page does not exist)">Koramangla</a></td>
+<td>Nandini Layout</td>
+<td>Wilson Garden, Majestic</td>
+</tr>
+<tr>
+<td>176</td>
+<td>Kaval Byrasandra</td>
+<td>Hampinagar</td>
+<td>Mekhri Circle, Vyalikaval, Malleshwaram Circle, Navarang, Vijayanagar, Maruthi Mandir</td>
+</tr>
+<tr>
+<td>180</td>
+<td>K.H.B.Colony</td>
+<td>Kaval Byrasandra</td>
+<td>Mekhri Circle, Yeshvantapur</td>
+</tr>
+<tr>
+<td>181</td>
+<td>Bhima Jyoti Nagar</td>
+<td>Jayanagar 9th block</td>
+<td>Magadi Road, KR Market, Lalbagh West gate, Jayanagar 4th block</td>
+</tr>
+<tr>
+<td>186</td>
+<td>Nandini Layout</td>
+<td>Sultan Palya</td>
+<td>Vyalikaval, Malleshwaram Circle</td>
+</tr>
+<tr>
+<td>188</td>
+<td>Hosakerahalli</td>
+<td>Mathikere</td>
+<td>Hanumanthanagar, Town Hall, Malleshwaram</td>
+</tr>
+<tr>
+<td>188B</td>
+<td>Chennamanakere Achukattu</td>
+<td>Chowdeshwarinagara</td>
+<td>Hanumanthanagar, J C Road, Town Hall, Majestic, Malleshwaram</td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="/wiki/J_P_Nagar" title="J P Nagar" class="mw-redirect">J P Nagar</a> 3rd phase</td>
+<td><a href="/wiki/Mahalakshmi_Layout" title="Mahalakshmi Layout">Mahalakshmi Layout</a></td>
+<td>via <a href="/wiki/Kempegowda_Bus_Station" title="Kempegowda Bus Station">Majestic</a>, <a href="/w/index.php?title=Malleshwaram_Circle&amp;action=edit&amp;redlink=1" class="new" title="Malleshwaram Circle (page does not exist)">Malleshwaram Circle</a></td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="/wiki/Srinagar" title="Srinagar">Srinagar</a></td>
+<td>Jeevan Bhima Nagar</td>
+<td>via Hanumanthanagar, Ramakrishna Ashram, <a href="/wiki/Lalbagh" title="Lalbagh" class="mw-redirect">Lalbagh</a>, Richmond circle, Ulsoor, Indiranagar</td>
+</tr>
+<tr>
+<td>190A</td>
+<td>Avalahalli BDA Park</td>
+<td>Jeevan Bhima Nagar via 190</td>
+</tr>
+<tr>
+<td>197</td>
+<td>Jeevan Bhima Nagar</td>
+<td><a href="/w/index.php?title=Sultan_Palya&amp;action=edit&amp;redlink=1" class="new" title="Sultan Palya (page does not exist)">Sultan Palya</a></td>
+<td>via Indiranagar, Ulsoor, Shivajinagar, Cantonment Railway Station, J.C. Nagar, <a href="/wiki/R.T._Nagar" title="R.T. Nagar" class="mw-redirect">R.T. Nagar</a></td>
+</tr>
+<tr>
+<td>201</td>
+<td><a href="/wiki/Domlur" title="Domlur">Domlur</a></td>
+<td>Srinagar</td>
+<td>Indiranagar, Ulsoor, Austin Town, Vivek Nagar, Kormangala 100 feet Road, Madivala, Silk Board, Banashankari, Katriguppe, Hosakerehalli Cross, Srinivasanagar</td>
+</tr>
+<tr>
+<td>201D</td>
+<td>Indiranagar</td>
+<td>Madivala Mosque<br />
+(Madivala Ayyapa Temple)</td>
+<td>Indiranagar 100 feet road, Domlur Layout, Inner Ring Road, Kormangala</td>
+</tr>
+<tr>
+<td>201G</td>
+<td>Jeevanbheemanagar</td>
+<td>Banashankari</td>
+<td>Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Domlur Layout, Inner Ring Road, Kormangala, Madivala, Silk Board, BTM Layout, Jayanagar 5th Block</td>
+</tr>
+<tr>
+<td>201J</td>
+<td>Jeevanbheemanagar</td>
+<td>Padmanaba Nagar</td>
+<td>Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Inner Ring Road, Kormangala, Madivala, Silk Board, Banashankari, Devegowda Petrol Bunk</td>
+</tr>
+<tr>
+<td>201H</td>
+<td>Avalahalli</td>
+<td>Kormangala 1st Block</td>
+<td>Madivala, Silk Board, BTM Layout, Jayanagar 5th Block, Banashankari, Devegowda Petrol Bunk</td>
+</tr>
+<tr>
+<td>201M</td>
+<td>Jeevanbheemanagar</td>
+<td>Hampinagar</td>
+<td>Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Inner Ring Road, Kormangala, Madivala, Silk Board, Banashankari, Devegowda Petrol Bunk, PESIT, Nayandahalli Cross, Attiguppe</td>
+</tr>
+<tr>
+<td>201MA</td>
+<td>Jeevanbheemanagar</td>
+<td>Madivala Mosque<br />
+(Madivala Ayyapa Temple)</td>
+<td>Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Domlur Layout, Inner Ring Road, Kormangala</td>
+</tr>
+<tr>
+<td>201MD</td>
+<td>Domlur</td>
+<td>J.P.Nagar 6th Phase</td>
+<td>BTM, silk board, DELL</td>
+</tr>
+<tr>
+<td>201MJ</td>
+<td><a href="/wiki/Banashankari" title="Banashankari">Banashankari</a></td>
+<td><a href="/w/index.php?title=Jeevanhalli&amp;action=edit&amp;redlink=1" class="new" title="Jeevanhalli (page does not exist)">Jeevanhalli</a></td>
+<td>BTM, Silk bopard, Indiranagar</td>
+</tr>
+<tr>
+<td>201R (Volvo)</td>
+<td>CV Raman Nagar</td>
+<td>Srinagar</td>
+<td>BEML gate, Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Kormangala, Madivala, Silk Board, Banashankari, Katriguppe, Hosakerehalli Cross, Bank Colony, Hanumanth Nagar</td>
+</tr>
+<tr>
+<td>201RC (AC Marcopolo)</td>
+<td>CV Raman Nagar</td>
+<td>Chikkalsandra</td>
+<td>BEML gate, Thippasandra Cross, CMH Road, Indiranagar 100 feet road, Inner Ring Road, Kormangala, Madivala, Silk Board, BTM Layout, Jayanagar 5th Block, Banashankari, Kadirenahalli Cross</td>
+</tr>
+<tr>
+<td>201S ( Corona AC)</td>
+<td>Domlur</td>
+<td>Banashankari</td>
+<td>Indiranagar 100 feet road, CMH Road, Trinity Circle, Adugodi, Madiwala, SilkBoard, BTM Layout, Jayanagar 5th Block</td>
+</tr>
+<tr>
+<td>201U</td>
+<td>AGCS Layout</td>
+<td>Bayappanahalli</td>
+<td>Devegowda Petrol Bunk, Banashankari, BTM Layout, Silk Board, Madivala, Koramangala, Inner Ring Road, Indiranagar 100 feet road</td>
+</tr>
+<tr>
+<td>201V</td>
+<td>Jayanagar 4th Block</td>
+<td>Neelsandra</td>
+<td>East End, BTM, Silk Board, Koramangla Water Tank, Koramangla Sony World</td>
+</tr>
+<tr>
+<td>211N</td>
+<td>K.R.Market</td>
+<td><a href="/wiki/Bidadi" title="Bidadi">Bidadi</a></td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a>, <a href="/wiki/Konanakunte" title="Konanakunte">Konanakunte</a> cross, <a href="/wiki/Kaggalipura" title="Kaggalipura">Kaggalipura</a></td>
+</tr>
+<tr>
+<td>213V</td>
+<td>K.R.Market</td>
+<td>Harohalli</td>
+<td><a href="/wiki/Banashankari" title="Banashankari">Banashankari</a>, Konanakunte Cross, Kaggalipura, Kebbagodi Cross</td>
+</tr>
+<tr>
+<td>215Z</td>
+<td>K.R.Market</td>
+<td><a href="/wiki/Bannerghatta_National_Park" title="Bannerghatta National Park">Bannerghatta</a></td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a>, <a href="/wiki/Konanakunte" title="Konanakunte">Konanakunte</a> cross, <a href="/wiki/Gottigere" title="Gottigere">Gottigere</a></td>
+</tr>
+<tr>
+<td>222A</td>
+<td>Kempegowda Bus station</td>
+<td>Kengeri satellite town</td>
+<td>MCTC, Nayandanahalli, kengeri</td>
+</tr>
+<tr>
+<td>222D</td>
+<td>K.R.Market</td>
+<td><a href="/wiki/Kengeri" title="Kengeri">Kengeri</a> Satellite Town</td>
+<td>via <a href="/wiki/Basavanagudi" title="Basavanagudi">Basavanagudi</a>, <a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a>, <a href="/wiki/Uttarahalli" title="Uttarahalli">Uttarahalli</a></td>
+</tr>
+<tr>
+<td>223J</td>
+<td>Doddabasti</td>
+<td>Bommanhalli</td>
+<td>Nayandahalli, <a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a></td>
+</tr>
+<tr>
+<td>224L</td>
+<td>K.R.Market</td>
+<td>Konasandra</td>
+<td>via Banashankari, Uttarahalli</td>
+</tr>
+<tr>
+<td>226W</td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a></td>
+<td><a href="/wiki/Bidadi" title="Bidadi">Bidadi</a></td>
+<td>via <a href="/wiki/Uttarahalli" title="Uttarahalli">Uttarahalli</a>, <a href="/wiki/Kengeri" title="Kengeri">Kengeri</a></td>
+</tr>
+<tr>
+<td>234B</td>
+<td>Ullal Satellite Town</td>
+<td>Marathahalli</td>
+<td><a href="/wiki/Banashankari,_Bangalore" title="Banashankari, Bangalore">Banashankari</a>, BTM, Silk Board</td>
+</tr>
+<tr>
+<td>235N</td>
+<td><a href="/wiki/Nagarbhavi" title="Nagarbhavi">Nagarbhavi</a></td>
+<td><a href="/wiki/Jayanagar,_Bangalore" title="Jayanagar, Bangalore">Jayanagar</a> 9th block</td>
+<td>via <a href="/w/index.php?title=Viajayanagar&amp;action=edit&amp;redlink=1" class="new" title="Viajayanagar (page does not exist)">Viajayanagar</a>, <a href="/wiki/Mysore_Road_Satellite_Bus_Station" title="Mysore Road Satellite Bus Station">MCTC</a>, <a href="/w/index.php?title=Chamrajpet&amp;action=edit&amp;redlink=1" class="new" title="Chamrajpet (page does not exist)">Chamrajpet</a></td>
+</tr>
+<tr>
+<td>240P</td>
+<td>Sunkadgatte</td>
+<td><a href="/wiki/BTM_Layout" title="BTM Layout">BTM Layout</a></td>
+<td>Kamakshipalya, KHB Colony, <a href="/wiki/Vijayanagar,_Bangalore" title="Vijayanagar, Bangalore">Vijayanagar</a>, <a href="/wiki/Mysore_Road_Satellite_Bus_Station" title="Mysore Road Satellite Bus Station">MCTC</a>, <a href="/w/index.php?title=Chamrajpet&amp;action=edit&amp;redlink=1" class="new" title="Chamrajpet (page does not exist)">Chamrajpet</a></td>
+</tr>
+<tr>
+<td>248SA/60A</td>
+<td><a href="/wiki/Jalahalli" title="Jalahalli">Jalahalli</a> Cross</td>
+<td>Jayanagar 9th block</td>
+<td>via <a href="/w/index.php?title=Sunkadgatte&amp;action=edit&amp;redlink=1" class="new" title="Sunkadgatte (page does not exist)">Sunkadgatte</a>,240P</td>
+</tr>
+<tr>
+<td>270H</td>
+<td><a href="/w/index.php?title=Jalahalli_Cross&amp;action=edit&amp;redlink=1" class="new" title="Jalahalli Cross (page does not exist)">Jalahalli Cross</a></td>
+<td><a href="/wiki/J._P._Nagar,_Bangalore" title="J. P. Nagar, Bangalore">J P Nagar</a> 6th phase</td>
+<td><a href="/wiki/Mathikere" title="Mathikere">Mathikere</a>, <a href="/w/index.php?title=Mekhri_Circle&amp;action=edit&amp;redlink=1" class="new" title="Mekhri Circle (page does not exist)">Mekhri Circle</a>, <a href="/wiki/Shivajinagar,_Bangalore" title="Shivajinagar, Bangalore">Shivajinagar</a>, <a href="/wiki/Shantinagar_Bus_Station" title="Shantinagar Bus Station">Shantinagar</a>, Jayanagar 4th block</td>
+</tr>
+<tr>
+<td>270HA</td>
+<td>Jayanagar 9th block</td>
+<td>Sharadamba nagar</td>
+<td>via Jayanagar TTMC, Lalbagh, corporation, Swastik, Malleshwaram 18th cross</td>
+</tr>
+<tr>
+<td>273C
+<p>Jalahalli Cross-Majestic</p>
+</td>
+<td>276G (Volvo)</td>
+<td><a href="/wiki/Vidyaranyapura" title="Vidyaranyapura">Vidyaranyapura</a></td>
+<td><a href="/wiki/Electronics_City" title="Electronics City">Electronics City</a></td>
+<td><a href="/wiki/Kempegowda_Bus_Station" title="Kempegowda Bus Station">Kempegowda Bus Station</a>, Corporation, <a href="/wiki/Shantinagar_Bus_Station" title="Shantinagar Bus Station">Shantinagar</a>, <a href="/wiki/Madiwala" title="Madiwala">Madiwala</a>, <a href="/w/index.php?title=Bommanhalli&amp;action=edit&amp;redlink=1" class="new" title="Bommanhalli (page does not exist)">Bommanhalli</a></td>
+</tr>
+<tr>
+<td>276N</td>
+<td><a href="/wiki/Vidyaranyapura" title="Vidyaranyapura">Vidyaranyapura</a></td>
+<td><a href="/w/index.php?title=Chikkalasandra&amp;action=edit&amp;redlink=1" class="new" title="Chikkalasandra (page does not exist)">Chikkalasandra</a></td>
+<td><a href="/wiki/Bharat_Electronics_Limited" title="Bharat Electronics Limited" class="mw-redirect">BEL</a> Circle, <a href="/wiki/Mathikere" title="Mathikere">Mathikere</a>, <a href="/wiki/Kempegowda_Bus_Station" title="Kempegowda Bus Station">Kempegowda Bus Station</a>, <a href="/w/index.php?title=K._R._Market&amp;action=edit&amp;redlink=1" class="new" title="K. R. Market (page does not exist)">K. R. Market</a>, <a href="/wiki/Basavanagudi" title="Basavanagudi">Basavanagudi</a>, Monotype</td>
+</tr>
+<tr>
+<td>278B</td>
+<td><a href="/w/index.php?title=Bhoopasandra&amp;action=edit&amp;redlink=1" class="new" title="Bhoopasandra (page does not exist)">Bhoopasandra</a></td>
+<td><a href="/w/index.php?title=Jeevan_Bhima_Nagar&amp;action=edit&amp;redlink=1" class="new" title="Jeevan Bhima Nagar (page does not exist)">Jeevan Bhima Nagar</a></td>
+<td><a href="/w/index.php?title=Mekhri_Circle&amp;action=edit&amp;redlink=1" class="new" title="Mekhri Circle (page does not exist)">Mekhri Circle</a>, <a href="/wiki/Shivajinagar,_Bangalore" title="Shivajinagar, Bangalore">Shivajinagar</a>, <a href="/wiki/Ulsoor" title="Ulsoor" class="mw-redirect">Ulsoor</a></td>
+</tr>
+<tr>
+<td>279F</td>
+<td><a href="/w/index.php?title=Bhoopasandra&amp;action=edit&amp;redlink=1" class="new" title="Bhoopasandra (page does not exist)">Bhoopasandra</a></td>
+<td><a href="/wiki/Uttarahalli" title="Uttarahalli">Uttarahalli</a></td>
+<td>Corporation, <a href="/w/index.php?title=K.R.Market&amp;action=edit&amp;redlink=1" class="new" title="K.R.Market (page does not exist)">K.R.Market</a>,276N</td>
+</tr>
+<tr>
+<td>285</td>
+<td>Market</td>
+<td>Rajankunte</td>
+<td>Majestic, Shivananda, Mekhri Circle, Hebbala, Kodighalli, Yelahanka NES, Ananthapura Gate.</td>
+</tr>
+<tr>
+<td>285 MK</td>
+<td>Market</td>
+<td>Doddballapur</td>
+<td>Majestic, Shivananda, Mekhri Circle, Hebbala, Kodighalli, Yelahanka NES, Ananthapura Gate, Rajankunte.</td>
+</tr>
+<tr>
+<td>285 M</td>
+<td>Majestic or Mysore Bank</td>
+<td>Doddaballapur</td>
+<td>Mekhri Circle, Hebbala, Kodighalli, Yelahanka NES, Ananthapura Gate,Rajankunte.</td>
+</tr>
+<tr>
+<td>298 M</td>
+<td>Majestic</td>
+<td>Devanahalli</td>
+<td>Shivananda, Mekhri Circle, Hebbala, Kodighalli, Yelahanka Police Station, Yelahanka Old Town.</td>
+</tr>
+<tr>
+<td>300Q</td>
+<td>Banaswadi</td>
+<td>Padmanabhanagar</td>
+<td>Shivajinagar, Shantinagar, Jayanagar 4th block</td>
+</tr>
+<tr>
+<td>301E</td>
+<td>Indian Telecom Industry (ITI) Colony</td>
+<td>Jayanagar 4th block</td>
+<td>Banaswadi, Shivajinagar, Shantinagar</td>
+</tr>
+<tr>
+<td>314</td>
+<td>Shivajinagar</td>
+<td>C V Raman Nagar</td>
+<td>M G Road, Ulsoor, Indiranagar, Thippasandra, BEML gate</td>
+</tr>
+<tr>
+<td>314A</td>
+<td>Shivajinagar</td>
+<td>DRDO 2nd Phase</td>
+<td>M G Road, Ulsoor, Indiranagar, Thippasandra, BEML gate, C V Raman Nagar, Kaggadasapura</td>
+</tr>
+<tr>
+<td>314B</td>
+<td>KBS (Majestic)</td>
+<td>C V Raman Nagar</td>
+<td>Corporation, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate</td>
+</tr>
+<tr>
+<td>314D</td>
+<td>KBS (Majestic)</td>
+<td>Vignana Nagar</td>
+<td>Corporation, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate, Mallesh Palya</td>
+</tr>
+<tr>
+<td>314E</td>
+<td>KBS (Majestic)</td>
+<td>DRDO 2nd Phase</td>
+<td>Corporation, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate, C V Raman Nagar, Kaggadasapura</td>
+</tr>
+<tr>
+<td>314F</td>
+<td>K R Market</td>
+<td>Basavanagar</td>
+<td>Town Hall, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate, Vignana Nagar</td>
+</tr>
+<tr>
+<td>314G</td>
+<td>KBS (Majestic)</td>
+<td>Bhyrasandra</td>
+<td>Corporation, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate, G M Palya</td>
+</tr>
+<tr>
+<td>314H</td>
+<td>KBS (Majestic)</td>
+<td>Malleshpalya</td>
+<td>Corporation, Mayo Hall, Ulsoor, Indiranagar, Thippasandra, BEML gate, G M Palya</td>
+</tr>
+<tr>
+<td>314K</td>
+<td>C V Raman Nagar</td>
+<td>Chennamanakere Achukattu</td>
+<td>Thippasandra, CMH Road, Trinity Circle, Vellara Junction, K H Road, Lalbagh West Gate, National College, Hanumantanagar</td>
+</tr>
+<tr>
+<td>314N</td>
+<td>Shivajinagar</td>
+<td>Vignananagar</td>
+<td>M G Road, Ulsoor, Indiranagar, Thippasandra, Malleshpalya</td>
+</tr>
+<tr>
+<td>315K</td>
+<td>KBS(Majestic)</td>
+<td>K.R.Puram</td>
+<td>Kasturinagar, Channasandra Railway Bridge, Ramamurthy Nagar</td>
+</tr>
+<tr>
+<td>315-L</td>
+<td>KBS(Majestic)</td>
+<td>Ramamurthy Nagar</td>
+<td>Isolation Hospital, Kasturinagar</td>
+</tr>
+<tr>
+<td>328B</td>
+<td>Hosakote</td>
+<td>Sarjapura</td>
+<td>Kadugodi, Varthoor, Dommasandra</td>
+</tr>
+<tr>
+<td>328H</td>
+<td>Hosakote</td>
+<td>Attibelle</td>
+<td>Kadugodi, White field, Varthoor, Dommsandra, Sarjapura, Indiabele</td>
+</tr>
+<tr>
+<td>328HA</td>
+<td>Kadugodi</td>
+<td>Attibelle</td>
+<td></td>
+</tr>
+<tr>
+<td>334E</td>
+<td>Domlur</td>
+<td>Hosakote</td>
+<td>HAL, Marathahalli, Vathoor Kodi, White Field, Kadugodi</td>
+</tr>
+<tr>
+<td>356J</td>
+<td>Yelahanka Satellite Town</td>
+<td>Electronic City</td>
+<td>Mekhri circle, Kempegowda Bus Station, Madiwala</td>
+</tr>
+<tr>
+<td>365M</td>
+<td><a href="/wiki/Yelahanka" title="Yelahanka">Yelahanka</a> Satellite Town</td>
+<td>Bannerghatta National Park</td>
+<td>Kempegowda Bus Station, Dairy Circle</td>
+</tr>
+<tr>
+<td>366P</td>
+<td>Bagalkunte</td>
+<td>Bannerghatta National Park</td>
+<td>Jalahalli Cross, K. R. Market, Lalbagh, Jayanagar 4th Block</td>
+</tr>
+<tr>
+<td>369M</td>
+<td>Hulimavu</td>
+<td>Vijayanagar</td>
+<td>Jayanagar East End, Jayanagar 4th block, Gandhi Bazaar, MCTC</td>
+</tr>
+<tr>
+<td>375</td>
+<td>Kengeri Shirke</td>
+<td>Byrasandra (Jayanagar)</td>
+<td>via Kengeri, Uttarahalli,Jayanagar TTMC</td>
+</tr>
+<tr>
+<td>375A (Volvo)</td>
+<td>Kengeri Shirke</td>
+<td>Electronic City</td>
+<td>Kengeri, Uttarahalli, Banashankari, Silk board, Bommanhalli</td>
+</tr>
+<tr>
+<td>375 B</td>
+<td>Shantinagar</td>
+<td>Kengeri Shirke</td>
+<td>Jayanagar, Banashankari, Uttarahalli,Kengeri</td>
+</tr>
+<tr>
+<td>378</td>
+<td>Kengeri</td>
+<td>Electronic City</td>
+<td>via Uttarahalli, Konanakunte Cross, Gottigere, Bettadasapura, Neeladri, WIPRO</td>
+</tr>
+<tr>
+<td>378A</td>
+<td>Jigani</td>
+<td>Kengeri</td>
+<td>378 route</td>
+</tr>
+<tr>
+<td>378B</td>
+<td><a href="/wiki/Jayanagar,_Bangalore" title="Jayanagar, Bangalore">Jayanagar</a> 4th Block</td>
+<td>Electronic city</td>
+<td>Jayanagar 5th block, J.P.Nagar 1st phase, Jambusavari dinne, Gottigere, 378 route</td>
+</tr>
+<tr>
+<td>399</td>
+<td>Anekal</td>
+<td>Hosakote</td>
+<td>Attibelle, Sarjapura, Dommsandra, Varthoor, Kadugodi</td>
+</tr>
+<tr>
+<td>399C</td>
+<td>Anekal</td>
+<td>Chikka Tirupati</td>
+<td>Attibelle, Sarjapur</td>
+</tr>
+<tr>
+<td>401</td>
+<td>Yelahanka</td>
+<td>Yeshvantapur</td>
+<td>Vidyaranyapura, Mathikere, Hosakerehalli Cross</td>
+</tr>
+<tr>
+<td>401B</td>
+<td>Yelahanka</td>
+<td>Hampi Nagar</td>
+<td>Vidyaranyapura, Mathikere, Yeshvantapur, Isckon, West of chord road, Vijayanagar</td>
+</tr>
+<tr>
+<td>401M</td>
+<td>Yeshvantapur</td>
+<td>Kengeri TTMC</td>
+<td>Gorguntepalya, Kamakshipalya, Nagarbhavi BDA complex, Kengeri Satellite Town</td>
+</tr>
+<tr>
+<td>401K</td>
+<td>Yelahanka</td>
+<td>Kengeri</td>
+<td>kengeri satellite town, west of chord road, yeshwanthpur</td>
+</tr>
+<tr>
+<td>401P</td>
+<td>Kengeri</td>
+<td>Yeshwanthpur</td>
+<td>west of chord road</td>
+</tr>
+<tr>
+<td>401S</td>
+<td>Yeshwantapura</td>
+<td>Chikkalsandra</td>
+<td>Rajajinagar, Vijayanagar, Nayandahalli, Kamakya</td>
+</tr>
+<tr>
+<td>402</td>
+<td>Market</td>
+<td>Yelahanka Satellite Town</td>
+<td>Majestic, Mekhri Circle, Hebbal, Yelahanka NES, Upanagara.</td>
+</tr>
+<tr>
+<td>402 B &amp; 402 D</td>
+<td>Majestic</td>
+<td>Yelahanka Satellite Town</td>
+<td>Mekhri Circle, Hebbal, Yelahanka NES, Upanagara.</td>
+</tr>
+<tr>
+<td>402 C</td>
+<td>Majestic</td>
+<td>Attur Layout</td>
+<td>Mekhri Circle, Hebbal, Yelahanka NES, Upanagara.</td>
+</tr>
+<tr>
+<td>402G</td>
+<td>ISRO Layout</td>
+<td>Yelahanka Satellite Town</td>
+<td>K. R. Road, K. R. Market, Kempegowda Bus Station, Hebbal</td>
+</tr>
+<tr>
+<td>402M</td>
+<td>Chikkalasandra</td>
+<td>Yelahanka Satellite Town</td>
+<td>Banashankari, K.R.Road, K.R.Market, MAjestic, Hebbal</td>
+</tr>
+<tr>
+<td>410</td>
+<td>Jalahalli Cross</td>
+<td>Bommanhalli</td>
+<td>Sunkadgatte, Vijayanagar, Nayandahalli, Banashankari, Silk Board</td>
+</tr>
+<tr>
+<td>410C</td>
+<td>Vijayanagar</td>
+<td>Silk Board</td>
+<td>same as 410</td>
+</tr>
+<tr>
+<td>410D</td>
+<td>Electronic City</td>
+<td>Bharathnagar</td>
+<td>Bommanhalli, Silk Board, Banashankari, Nayandahalli, Vijayanagar, Sunkdagatte</td>
+</tr>
+<tr>
+<td>410E</td>
+<td>Agara</td>
+<td>Jalahalli Cross</td>
+<td>Sunkadgatte, Vijayanagar, Nayandahalli, Banashankari, Silk Board</td>
+</tr>
+<tr>
+<td>412</td>
+<td>Hennur Cross</td>
+<td>ISRO Layout</td>
+<td>Kammanahalli, Bayyapanahalli, Indiranagar 100 feet road, Domlur Layout, Inner Ring Road, Kormangala, Silk Board, BTM Layout, Banashankari, Kadirenahalli Cross, Kumaraswamy Layout</td>
+</tr>
+<tr>
+<td>414</td>
+<td>K.Narayanapura</td>
+<td>Hampi Nagar</td>
+<td>Maekhri Circle, Sadhashivanagar, Malleshwaram Circle, Navrang</td>
+</tr>
+<tr>
+<td>415S</td>
+<td>Vishvanatha nagenahalli</td>
+<td>Jayanagar 9th block</td>
+<td>RT Nagar, K.R.Market</td>
+</tr>
+<tr>
+<td>500A</td>
+<td>Banashankari</td>
+<td>Hebbal</td>
+<td>BTM Layout, Silk Board, Agara, Marathahalli, KR Puram, Rama Murthy Nagar Junction, Kalyan Nagar</td>
+</tr>
+<tr>
+<td>500AA</td>
+<td>Yelahanka Satellite Town</td>
+<td>Krishnarajapuram</td>
+<td>via Hebbal, Kalyan nagar</td>
+</tr>
+<tr>
+<td>500BM(Volvo)</td>
+<td>Brigade Millenium(J.P.Nagar 7th Phase)</td>
+<td>ITPL</td>
+<td>East end, Silk board, Marathahalli</td>
+</tr>
+<tr>
+<td>500C</td>
+<td>Central silk Board</td>
+<td>K.R.Puram</td>
+<td>Agara, Marathahalli, K.R.Puram Rly station, Ramamurthy nagar, ITI circle</td>
+</tr>
+<tr>
+<td>500C (Volvo)</td>
+<td>Banashankari</td>
+<td>ITPL</td>
+<td>Silk board, agara, Marathahalli, Vydehi Hospital</td>
+</tr>
+<tr>
+<td>500D</td>
+<td>Hebbal</td>
+<td>Central Silk Board</td>
+<td>Agara, Marathahalli, K.R.Puram Rly Station</td>
+</tr>
+<tr>
+<td>500DB (Volvo)</td>
+<td>Hebbal</td>
+<td>ITPL</td>
+<td>Marathahalli, Kundalahalli</td>
+</tr>
+<tr>
+<td>500DE (Volvo)</td>
+<td>Vidyaranyapura</td>
+<td>ITPL</td>
+<td>Hebbal, K R Puram, Marathahalli, Kundalahalli</td>
+</tr>
+<tr>
+<td>500DF(Volvo)</td>
+<td>Hebbal</td>
+<td>ITPL</td>
+<td>K R Puram, Hoodi Circle, Graphite Signal</td>
+</tr>
+<tr>
+<td>500K(Volvo)</td>
+<td><a href="/wiki/Vijayanagar" title="Vijayanagar">Vijayanagar</a></td>
+<td><a href="/wiki/ITPL" title="ITPL" class="mw-redirect">ITPL</a></td>
+<td>Chandra Layout, Nayandahalli, PESIT,Kathriguppe, Banashankari, Silk Board, agara, Marathahalli</td>
+</tr>
+<tr>
+<td>500KB(Volvo)</td>
+<td><a href="/wiki/Mathikere" title="Mathikere">Mathikere</a></td>
+<td><a href="/wiki/ITPL" title="ITPL" class="mw-redirect">ITPL</a></td>
+<td>Yeshvantapur, vijayanagar, 500K(Volvo)</td>
+</tr>
+<tr>
+<td>500KG(Volvo)</td>
+<td>Gottigere</td>
+<td>ITPL</td>
+<td>BTM Layout, Silk Board, Marathahalli</td>
+</tr>
+<tr>
+<td>500KM(Volvo)</td>
+<td>Kalyani Magnum (J.P.Nagar 4th phase)</td>
+<td>ITPL</td>
+<td>East end, Silk Board, Marathahalli</td>
+</tr>
+<tr>
+<td>505 (Volvo)</td>
+<td>ITPL</td>
+<td>Electronic City</td>
+<td>Marathahalli, silk Board</td>
+</tr>
+<tr>
+<td>505A (Volvo)</td>
+<td>Jeevanbhimanagar</td>
+<td>Electronic City</td>
+<td>Koramangla Water tank, Madiwala</td>
+</tr>
+<tr>
+<td>507</td>
+<td>Krishnarajapuram Railway Station</td>
+<td>Sunkadgatte</td>
+<td>Kalyan Nagar, Hebbal, BEL circle, HMT, Jalahalli Cross, Peenya 2nd stage</td>
+</tr>
+<tr>
+<td>600K(Volvo)</td>
+<td>Vijayanagar</td>
+<td>Electronic City</td>
+<td>PESIT, Banashankari, Silk board, Bommanhalli, Hosa Road junction</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=2" title="Edit section: Feeder Routes">edit</a>]</span> <span class="mw-headline" id="Feeder_Routes">Feeder Routes</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=3" title="Edit section: BigConnect">edit</a>]</span> <span class="mw-headline" id="BigConnect">BigConnect</span></h3>
+<p>Connect to the nearest Big10 Point and are feeders for Big10(G services) of BMTC</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td>BC-1</td>
+<td>Doddenakundi</td>
+<td>Bellandur</td>
+<td>Chinnapanhalli, Marathahalli, Yamalur</td>
+</tr>
+<tr>
+<td>BC-1A</td>
+<td>Marathahalli Bridge</td>
+<td>Electronic City</td>
+<td>Sarjapur Road, Haralur, Central Jail, Konappana Agrahara</td>
+</tr>
+<tr>
+<td>BC-2</td>
+<td>Kodathi Gate</td>
+<td>Varthoor Kodi</td>
+<td>Gunjur</td>
+</tr>
+<tr>
+<td>BC-3A</td>
+<td>HSr Layour CPWD</td>
+<td>St. Johns</td>
+<td>Silk board, Madiwala</td>
+</tr>
+<tr>
+<td>BC-4</td>
+<td>Banashankari</td>
+<td>Yelenhalli</td>
+<td>Konanakunte Cross, Jambusavari dinne, Meenakshi Temple</td>
+</tr>
+<tr>
+<td>BC-4A</td>
+<td>Jayanagar 4th Block TTMC</td>
+<td>Yelenhalli</td>
+<td>Jayadeva, Bilekhalli</td>
+</tr>
+<tr>
+<td>BC-5</td>
+<td>Kengeri</td>
+<td>Kaggalipura</td>
+<td>Agara, Konasandra</td>
+</tr>
+<tr>
+<td>BC-6</td>
+<td>Uttarahalli</td>
+<td>Ullal Satellite Town</td>
+<td>Rajarajeshwari Temple, Bangalore University</td>
+</tr>
+<tr>
+<td>BC-6A</td>
+<td><a href="/wiki/Kengeri" title="Kengeri">Kengeri</a></td>
+<td><a href="/w/index.php?title=Ullal_Satellite_Town&amp;action=edit&amp;redlink=1" class="new" title="Ullal Satellite Town (page does not exist)">Ullal Satellite Town</a></td>
+<td>Kengeri Satellite Town, Visveshwaraiah Layout 2nd,4th and 6th blocks</td>
+</tr>
+<tr>
+<td>BC-7</td>
+<td>Ullal Satellite Town</td>
+<td>Peenya 2nd stage</td>
+<td>Visveshwaraiah Layout 7th Block, Byadarahalli, Herohalli, Peenya 4th stage</td>
+</tr>
+<tr>
+<td>BC-7A</td>
+<td>Kodigehalli</td>
+<td>Madanayakanhalli</td>
+<td>BEL Circle, Bagalkunte, BIEC</td>
+</tr>
+<tr>
+<td>BC-7B</td>
+<td>bByadarahalli</td>
+<td>8th Mile Tumkur Road</td>
+<td>Karirobanhalli</td>
+</tr>
+<tr>
+<td>BC-8</td>
+<td>Jalahalli Cross</td>
+<td>Vidyaranyapura</td>
+<td>BEL Market, Doddabommasandra, Nagaland Circle</td>
+</tr>
+<tr>
+<td>BC-8A</td>
+<td>Abbigere</td>
+<td>Peenya 2nd stage</td>
+<td>Jalahalli West</td>
+</tr>
+<tr>
+<td>BC-9</td>
+<td>Byatarayanpura</td>
+<td>Nagavara junction</td>
+<td>Amruthahalli, Vidyasagara</td>
+</tr>
+<tr>
+<td>BC-9A</td>
+<td>Hebbal Ring Road</td>
+<td>Bagalur</td>
+<td>Nagavara</td>
+</tr>
+<tr>
+<td>BC-11</td>
+<td>Byatarayanpura</td>
+<td>Kothanur(Hennur)</td>
+<td>Dhanvanthri hospital, Sofia college, K Narayanpura</td>
+</tr>
+<tr>
+<td>BC-11A</td>
+<td>Byatarayanpura</td>
+<td>Kannur</td>
+<td>jakkur, Sampigehalli</td>
+</tr>
+<tr>
+<td>BC-12</td>
+<td>K.R.Puram</td>
+<td>Hennur Geddalhalli</td>
+<td>Thabuchettypalya, Akshayanagar, Koshys Hospital,Ramurthynagar Junction, HRBR, Hennur</td>
+</tr>
+<tr>
+<td>BC-12A</td>
+<td>K.R.Puram</td>
+<td>HAL Gate</td>
+<td>Mahadevapura, Kaggadasapura, Vijnannagar</td>
+</tr>
+<tr>
+<td>BC-12B</td>
+<td>Avalahalli(Old Madras Road)</td>
+<td>Kothanur(Hennur)</td>
+<td>Bidarahalli, Rampura, MR Nursing College</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=4" title="Edit section: Feeder">edit</a>]</span> <span class="mw-headline" id="Feeder">Feeder</span></h3>
+<p>. FDR These some routes are operated for connecting nearby locations.</p>
+<p><small><span class="citation wikicite" id="endnote_note"><b><a href="#ref_note">^</a></b></span> Due to underpass work at Kadirenahalli, both FDR1 and FDR 2 take the same route</small></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=5" title="Edit section: Metro Feeder">edit</a>]</span> <span class="mw-headline" id="Metro_Feeder">Metro Feeder</span></h3>
+<p>MF Routes used to connect to Metro stations started operating after the launch of the 1st line of metro from MG Road to Baiyappanhalli</p>
+<table class="wikitable">
+<tr>
+<th>Roue No.</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Via</th>
+</tr>
+<tr>
+<td>FDR-1<sup class="reference" id="ref_note"><a href="#endnote_note">[note]</a></sup></td>
+<td>Uttarahalli</td>
+<td>Uttarahalli</td>
+<td>Padmanabhanagar, Devegowda Petrol Pump, Banashankari, Jayanagar 4th Block, Banashankari Bus Station, Kadirenhalli Cross</td>
+</tr>
+<tr>
+<td>FDR-2<sup class="reference" id="ref_note"><a href="#endnote_note">[note]</a></sup></td>
+<td>Uttarahalli</td>
+<td>Uttarahalli</td>
+<td>opposite of FDR-1</td>
+</tr>
+<tr>
+<td>FDR-5</td>
+<td>Chikkalasandra</td>
+<td>Chikkalasandra</td>
+<td>opposite of FDR-6</td>
+</tr>
+<tr>
+<td>FDR-6</td>
+<td>Chikkalasandra</td>
+<td>Chikkalasandra</td>
+<td>Banashankari,Jayanagar,J.P.Nagar 1st phase, Jambusavari Dinne, Konanakunte Cross,Uttarahalli</td>
+</tr>
+<tr>
+<td>NLMF-1</td>
+<td>Yeshvantapur RMC</td>
+<td>Hessarghatta</td>
+<td>Jalahalli Cross, Chikka Banawara</td>
+</tr>
+<tr>
+<td>NLMF-2</td>
+<td>Peenya 2nd stage</td>
+<td>Chikka Banawara</td>
+<td>Jalahalli Cross</td>
+</tr>
+<tr>
+<td>WFS-1&amp;2</td>
+<td>Marathahalli</td>
+<td>Marathahalli</td>
+<td>Kundalahalli, ITPL, Varthoor</td>
+</tr>
+<tr>
+<td>MBS</td>
+<td>Marathahalli</td>
+<td>Jalahalli Cross</td>
+<td>KR Puram, Tin Factory, Hebbal, HMT</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<th>Route no.</th>
+<th>From</th>
+<th>To</th>
+<th>Via</th>
+</tr>
+<tr>
+<td>MF-1(129D)</td>
+<td>KBS(Majestic)</td>
+<td>KBS(Majestic)</td>
+<td>Corporation, Richmond circle, Mayohall,MG Road Metro Station, Vidhana soudha, Mysore Bank Circle</td>
+</tr>
+<tr>
+<td>MF-2</td>
+<td>KBS(Majestic)</td>
+<td>KBS(Majestic)</td>
+<td>Opposite of MF-1</td>
+</tr>
+<tr>
+<td>MF-3</td>
+<td><a href="/wiki/Banashankari" title="Banashankari">Banashankari</a> TTMC</td>
+<td><a href="/wiki/Shivajinagar" title="Shivajinagar">Shivajinagar</a> bus Stand</td>
+<td><a href="/wiki/Jayanagar" title="Jayanagar">Jayanagar</a> TTMC, Shantinagar, Nanjappa Circle, Mayo Hall, MG Road Metro Station</td>
+</tr>
+<tr>
+<td>MF-4</td>
+<td>Central Silk Board</td>
+<td>Kalyan nagar</td>
+<td>Koramangla, National Games Village, Trinity Circle station,MG road station, Commercial street, Kachakaranhalli</td>
+</tr>
+<tr>
+<td>MF-5</td>
+<td>Madiwala</td>
+<td>Old Baiyappanhalli</td>
+<td>Koramangla, Domlur, SV Road station,</td>
+</tr>
+<tr>
+<td>MF-6</td>
+<td>Thambuchetty Palya</td>
+<td>Mangamman Palya</td>
+<td>Koudenhalli, Ramurthynagar junction, SV Road station, Koramangla Water tank, Madiwala</td>
+</tr>
+<tr>
+<td>MF-7</td>
+<td>Baiyappanhalli Station</td>
+<td>Kadugodi</td>
+<td>DRDO, CV Raman Nagar, HAL, Marathahalli, Sathya Sai Hospital</td>
+</tr>
+<tr>
+<td>MF-9</td>
+<td>ITI Colony</td>
+<td>Domlur</td>
+<td>Ramurthynagar, Kasturinagar, Baiyappanhalli Station, Surajandas Road, HAL</td>
+</tr>
+<tr>
+<td>MF-10(121BA)</td>
+<td>Mysore Road Satellite Bus stand(MCTC)</td>
+<td>M.G.Road Metro Station</td>
+<td>Townhall, Mayohall</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=6" title="Edit section: Other Routes">edit</a>]</span> <span class="mw-headline" id="Other_Routes">Other Routes</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=7" title="Edit section: BETL Routes">edit</a>]</span> <span class="mw-headline" id="BETL_Routes">BETL Routes</span></h3>
+<p>Following are some Express buses of BMTC which run via the Bangalore Elevated Tollroad to Electronic city avoiding the major Hosur road below</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>From</th>
+<th>Via</th>
+</tr>
+<tr>
+<td>356CW</td>
+<td>Electronic City(Wipro Gate)</td>
+<td>to Silk board</td>
+</tr>
+<tr>
+<td>600KB</td>
+<td><a href="/wiki/Vijayanagar" title="Vijayanagar">Vijayanagar</a> TTMC</td>
+<td>PESIT, Kathriguppe, Banashankari, Silk Board</td>
+</tr>
+<tr>
+<td>600QA</td>
+<td>Banashankari</td>
+<td>BTM, silk board</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=8" title="Edit section: Trunk routes">edit</a>]</span> <span class="mw-headline" id="Trunk_routes">Trunk routes</span></h3>
+<p>Following are the trunk routes of BMTC. These are preifxed by a "T".</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Routes integrated</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td>T-2</td>
+<td>88 and 171</td>
+<td>Basaweshwara nagar</td>
+<td>Koramangala</td>
+<td>Sujatha talkies, Kempegowda Bus Station, Shantinagar, Dairy Circle, Adugodi, Koramangala 8th block</td>
+</tr>
+<tr>
+<td>T-3</td>
+<td>112E and 144</td>
+<td>Ejipura</td>
+<td>Kaval Byrasandra</td>
+<td>Elgin Flour Mills, Mayo Hall, Shivajinagar, Vasanth Nagar</td>
+</tr>
+<tr>
+<td>T-4</td>
+<td>155 and 290</td>
+<td>Jagajeevan Ram Nagar</td>
+<td>Nagawara</td>
+<td>KR Market, Corporation, Indian Express</td>
+</tr>
+<tr>
+<td>T-5</td>
+<td>25E and 80A</td>
+<td>J.P.Nagar 3rd phase</td>
+<td>Nandini Layout</td>
+<td>via Jayanagar 4th Block, Lalbagh west gate, Kempegowda Bus Station</td>
+</tr>
+<tr>
+<td>T-6</td>
+<td>36B and 104</td>
+<td><a href="/wiki/Girinagar" title="Girinagar">Girinagar</a> 2nd phase</td>
+<td>Sadashivanagar</td>
+<td>Hanumanthanagar, K.R. Market, Majestic, Vyalikaval</td>
+</tr>
+<tr>
+<td>T-7</td>
+<td>34A and 127</td>
+<td>Hosakerahalli</td>
+<td>Jeevanhalli</td>
+<td>Hanumanthanagar, <a href="/wiki/Lalbagh" title="Lalbagh" class="mw-redirect">Lalbagh</a> Main gate, Richmond Circle, <a href="/wiki/Shivajinagar,_Bangalore" title="Shivajinagar, Bangalore">Shivajinagar</a></td>
+</tr>
+<tr>
+<td>T-8</td>
+<td>36 and 89</td>
+<td>Srinagar</td>
+<td>Kurubarahalli</td>
+<td>Hanumanthanagar, Ramakrishna Ashram, <a href="/wiki/Kempegowda_Bus_Station" title="Kempegowda Bus Station">Majestic</a>, Rajajinagar ESI, Shankar Mutt</td>
+</tr>
+<tr>
+<td>T-9</td>
+<td>27E and 278E</td>
+<td>J.P.Nagar 3rd phase</td>
+<td>Bhoopasandra</td>
+<td>Jayanagar 4th block, <a href="/wiki/Shantinagar_bus_stand" title="Shantinagar bus stand" class="mw-redirect">Shantinagar</a>, <a href="/wiki/Shivajinagar,_Bangalore" title="Shivajinagar, Bangalore">Shivajinagar</a>, Mekhri Circle</td>
+</tr>
+<tr>
+<td>T-12</td>
+<td>91D and 36</td>
+<td><a href="/wiki/Yeshvantapur" title="Yeshvantapur" class="mw-redirect">Yeshvantapur</a> R.M.C</td>
+<td>Srinagar</td>
+<td>Navrang, K.R.Market, Ramakrishna Ashrama</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=9" title="Edit section: Direction-based routes">edit</a>]</span> <span class="mw-headline" id="Direction-based_routes">Direction-based routes</span></h2>
+<p>The following are the direction based routes of BMTC. This is a new concept started on BMTC routes and is being followed consistently as of now</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=10" title="Edit section: Big 10">edit</a>]</span> <span class="mw-headline" id="Big_10">Big 10</span></h3>
+<p>These buses are in green colour having a prominent Big 10 logo displayed across the bus. These were introduced in Feb 2009 and have "G" prefix in their number.</p>
+<p>The concept developed was actually 10 major roads having buses at 10 mins interval-eventually they for extended to 12 routes</p>
+<table class="wikitable">
+<tr>
+<th>Route No</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td><b>G-1</b></td>
+<td>MG Road</td>
+<td>Kadugodi</td>
+<td>Domlur, HAL Main Gate, Marathahalli, Varthoor, White field</td>
+</tr>
+<tr>
+<td><b>G-2</b></td>
+<td>Brigade Road</td>
+<td>Sarjapura</td>
+<td>Vannarapet, Vivek nagar, Koramangla Depot, Agara, Kodathi, Dommasandra</td>
+</tr>
+<tr>
+<td><b>G-3</b></td>
+<td>Brigade Road</td>
+<td>Electronic city</td>
+<td>Adugodi, St. Johns, Madiwala, Bommanhalli</td>
+</tr>
+<tr>
+<td><b>G-4</b></td>
+<td>Brigade Road</td>
+<td>Bannerghatta National Park</td>
+<td>Adugodi, Dairy Circle, Gottigere</td>
+</tr>
+<tr>
+<td><b>G-5</b></td>
+<td>Corporation</td>
+<td>Kaggalipura</td>
+<td>KR Market, Basavanagudi Police Station, South End Circle, Banashankari, Jarganahalli, Konanakunte Cross, Talaghattapura,</td>
+</tr>
+<tr>
+<td><b>G-6</b></td>
+<td>Shantinagar Bus Stand</td>
+<td>Kengeri Satellite Town</td>
+<td>KR Market, Sirsi Circle, Bapuji Nagar, MCTC, Kengeri</td>
+</tr>
+<tr>
+<td><b>G-7</b></td>
+<td><span class="nowrap">Kempegowda Bus Station</span></td>
+<td>Janapriya Township</td>
+<td>Sunkadakatte</td>
+</tr>
+<tr>
+<td><b>G-8</b></td>
+<td>M.G.Road Metro station</td>
+<td>Nelamangala</td>
+<td>Shivajinagar, Mekhri Circle, Yeshvantapur, Jalahalli Cross</td>
+</tr>
+<tr>
+<td><b>G-9</b></td>
+<td>M.G.Road Metro station</td>
+<td>Yelahanka Satellite Town</td>
+<td>Shivajinagar, Mekhri Circle, Hebbal</td>
+</tr>
+<tr>
+<td><b>G-10</b></td>
+<td>Corporation</td>
+<td>RK Hegde Nagar</td>
+<td>Shivajinagar, Nagavara</td>
+</tr>
+<tr>
+<td><b>G-11</b></td>
+<td>M.G.Road Metro station</td>
+<td>Bagalur</td>
+<td>Vasanthnagar, Hennur</td>
+</tr>
+<tr>
+<td><b>G-12</b></td>
+<td>Shantinagar</td>
+<td>Hosakote</td>
+<td>Richmond Circle, Ulsoor, NGEF, KR Puram</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=11" title="Edit section: Blue Route">edit</a>]</span> <span class="mw-headline" id="Blue_Route">Blue Route</span></h3>
+<p>This route is a merger of 2 Green routes so a to run across the city. B-3 is the only blue route running at present between Electronic City and Peenya 2nd stage via Shivajinagar bus stand.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=12" title="Edit section: Big Circle">edit</a>]</span> <span class="mw-headline" id="Big_Circle">Big Circle</span></h3>
+<p>Big Circle buses were introduced to traverse on the outer ring road of Bangalore. 4 routes are being run at present from 4 points on ring road to cover a semicircle. These buses have a BigCircle Logo displayed prominently and numbers prefixed with "C".</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td><b>C-1</b></td>
+<td>Hebbal</td>
+<td>Kengeri</td>
+<td>Gorguntepalya, Kamakshipalya,Nagharbhavi,Kengeri Satellite Town</td>
+</tr>
+<tr>
+<td><b>C-3</b></td>
+<td>Hebbal</td>
+<td>Banashankari</td>
+<td>Gorguntepalya, Kengeri, Nayandahalli, Hosakerahalli</td>
+</tr>
+<tr>
+<td><b>D-5</b></td>
+<td>Banashankari</td>
+<td>Hebbal</td>
+<td>Silk Board, Marathahalli, KR Puam, Kalyan Nagar</td>
+</tr>
+<tr>
+<td><b>D-6</b></td>
+<td>Kengeri Satellite Town</td>
+<td>Kadugodi</td>
+<td>Kengeri, PESIT, Banashankari, Agara, Marathahalli, ITPL</td>
+</tr>
+<tr>
+<td><b>D-9</b></td>
+<td>Banashankari</td>
+<td>Marathahalli</td>
+<td>Silk Board, Agara</td>
+</tr>
+<tr>
+<td><b>D-12</b></td>
+<td>Banashankari</td>
+<td>Tin Factory</td>
+<td>Silk Board, Agara, Marathahalli</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=13" title="Edit section: K service">edit</a>]</span> <span class="mw-headline" id="K_service">K service</span></h3>
+<p>K service or Chikka Circle (meaning Small Circle) has been introduced traverse the inner ring road of <a href="/wiki/Bangalore" title="Bangalore">Bangalore</a>. There are 3 routes being operated as of now</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Origin</th>
+<th>Destination</th>
+<th>Route</th>
+</tr>
+<tr>
+<td><b>K-1</b></td>
+<td>St. John's Hospital</td>
+<td>Yeshvantapur</td>
+<td>Ejipura, Domlur, Ulsoor, Shivajinagar, Indian Express, Mekhri Circle</td>
+</tr>
+<tr>
+<td><b>K-2</b></td>
+<td>Hebbal</td>
+<td>MCTC</td>
+<td>Ramaiah Hospital, Yeshwanthpur, Iskon, Vijaynagar</td>
+</tr>
+<tr>
+<td><b>K-3</b></td>
+<td>Basaweshwaranagar</td>
+<td>Koramangala</td>
+<td>Vijayanagar, Chamarajpet, South End Circle, Jayanagar 4th block, Carmel Convent, Dairy Circle, St. John's Hospital</td>
+</tr>
+</table>
+<h3><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=14" title="Edit section: Airport Services">edit</a>]</span> <span class="mw-headline" id="Airport_Services">Airport Services</span></h3>
+<p>These Services operate from various points in Bangalore to the International airport. Volvo AC buses are the only class running on this route. Regular Volvo pass holders can travel in these buses up to Hebbal</p>
+<table class="wikitable">
+<tr>
+<th>Route No.</th>
+<th>Starting Point</th>
+<th>Via</th>
+</tr>
+<tr>
+<td><b>BIAS-4</b></td>
+<td>Old airport(HAL)</td>
+<td>Jeevanbhimanagar, Indiranagar, Old Madras Road, Trinity Circle, Mekhri Circle, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-5</b></td>
+<td>J.P.Nagar 6th Phase</td>
+<td>Jayanagar 4th block, Shantinagar, M.G.Road, Mount Carmel, Windsor manor, Mekhri circle,Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-6</b></td>
+<td>Kadugodi</td>
+<td>ITPL, K.R.Puram station, Old Madras Road, Trinity Circle, Mekhri circle,Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-7</b></td>
+<td>HSR Layout</td>
+<td>Jakkasandra, St. John's, Shantinagar, M.G.Road, Vasanthanagar, Mekhri circle, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-7A</b></td>
+<td>HSR Layout</td>
+<td>Jakkasandra, Koramangla, Sony world, Dell, Trinity Circle, Mekhri circle, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-8</b></td>
+<td>Electronic City</td>
+<td>Bommanhalli, Silk Board, Agara, Marathahalli, k.R.Puram Rly station, Kalyan nagar, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-8A</b></td>
+<td>BTM Layout</td>
+<td>Silk Board, BIAS-8</td>
+</tr>
+<tr>
+<td><b>BIAS-9</b></td>
+<td>Majestic</td>
+<td>Shivananda Circle, Windsor manor, Mekhri cirle, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-11</b></td>
+<td>Chikkalasandra</td>
+<td>Padmanabhanagar, Hosakerahalli, Nayandahalli, Vijayanagar, Rajajinagar 1st Block, Malleshwaram circle, 18th cross, Sadhashivanagar, Mekhri Circle, Hebbal</td>
+</tr>
+<tr>
+<td><b>BIAS-12</b></td>
+<td>BTM LAyout</td>
+<td>J. p. Nagar 3rd phase, Jayanagar 9th Block, 4th Block, Shantinagar, Corporation, Windsor Manor, Mekhri Circle, Hebbal</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=15" title="Edit section: Related pages">edit</a>]</span> <span class="mw-headline" id="Related_pages">Related pages</span></h2>
+<p><a href="/wiki/Bangalore_Metropolitan_Transport_Corporation" title="Bangalore Metropolitan Transport Corporation">Bangalore Metropolitan Transport Corporation</a></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external free" href="http://btis.in">http://btis.in</a></li>
+<li><a rel="nofollow" class="external free" href="http://bmtcroutes.in">http://bmtcroutes.in</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 927/1000000
+Post-expand include size: 13963/2048000 bytes
+Template argument size: 4690/2048000 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 4/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26797759-0!*!0!!en!4!* and timestamp 20120629021648 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;oldid=497729335">http://en.wikipedia.org/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;oldid=497729335</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Transport_in_Bangalore" title="Category:Transport in Bangalore">Transport in Bangalore</a></li><li><a href="/wiki/Category:Bus_transport_in_India" title="Category:Bus transport in India">Bus transport in India</a></li><li><a href="/wiki/Category:Lists_of_bus_routes" title="Category:Lists of bus routes">Lists of bus routes</a></li><li><a href="/wiki/Category:Public_transport_in_India" title="Category:Public transport in India">Public transport in India</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2011" title="Category:Use dmy dates from September 2011">Use dmy dates from September 2011</a></li><li><a href="/wiki/Category:Orphaned_articles_from_April_2011" title="Category:Orphaned articles from April 2011">Orphaned articles from April 2011</a></li><li><a href="/wiki/Category:All_orphaned_articles" title="Category:All orphaned articles">All orphaned articles</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_context_from_April_2011" title="Category:Wikipedia articles needing context from April 2011">Wikipedia articles needing context from April 2011</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_needing_context" title="Category:All Wikipedia articles needing context">All Wikipedia articles needing context</a></li><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_April_2011" title="Category:Wikipedia introduction cleanup from April 2011">Wikipedia introduction cleanup from April 2011</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Metropolitan+bus+routes+in+Bangalore&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Metropolitan+bus+routes+in+Bangalore" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Metropolitan_bus_routes_in_Bangalore"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:List_of_Metropolitan_bus_routes_in_Bangalore"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/List_of_Metropolitan_bus_routes_in_Bangalore" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Metropolitan_bus_routes_in_Bangalore" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Metropolitan_bus_routes_in_Bangalore" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;oldid=497729335" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=List_of_Metropolitan_bus_routes_in_Bangalore&amp;id=497729335" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Metropolitan+bus+routes+in+Bangalore" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+Metropolitan+bus+routes+in+Bangalore&amp;oldid=497729335&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 June 2012 at 15:31.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=List_of_Metropolitan_bus_routes_in_Bangalore&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw42 in 0.160 secs. -->
+	</body>
+</html>

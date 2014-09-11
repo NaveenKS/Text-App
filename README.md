@@ -38,12 +38,12 @@ ex: @directions bangalore,navrang,shivajinagar
 
 like this u can replace bangalore by hyderbad and chennai to search places there.
 
-3. Google serach
+3.Google serach
 
 ex @searchnav car|1
 
 In place of car you can type your queries and in place of 1 you can type 2,3,4..to change the page.
 
-4. Mail
+4.Mail
 
 @testnav senderid|reciever id|subject|message

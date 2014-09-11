@@ -1,8 +1,11 @@
 Text-App
 ========
 
-Description : This is a mobile text application with which one can get any information on the internet without
-using internet data plan.
+Platform used : Txtweb
+
+Programming Language : PHP
+
+Description : This is a mobile text application with which one can get any information on the internet by sending just a text message and without using internet data plan.
 
 Usage :
 

@@ -14,17 +14,21 @@ This is a mobile text application with which one can get any information on the 
 
 Type @astronav capricorn in your mobile and send it to the number "51115"
 
-    @newsnav tech 1
+        @newsnav tech 1
   
-  * technology news,
-  * "tech" is required and 1 can be changed to 2,3,4 to get next news
-  
-      @newsnav news 1
-      @newsnav world 1
-      @newsnav entertainment 1
-      @newsnav sports 1
-      @newsnav health 1
-      @newsnav business 1
+-technology news,
+-"tech" is required and 1 can be changed to 2,3,4 to get next news
+        @newsnav news 1
+      
+        @newsnav world 1
+      
+        @newsnav entertainment 1
+        
+        @newsnav sports 1
+      
+        @newsnav health 1
+      
+        @newsnav business 1
 
 2.Road directions
 

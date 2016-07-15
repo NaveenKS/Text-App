@@ -4,20 +4,20 @@
 
 *Programming Language : PHP*
 
-#####Description : 
+#####Introduction : 
 
-This is a mobile text application with which one can get any information on the internet by sending just a text message and without using internet data plan.
+It's a mobile text application with which one can get any information on the internet by sending just a text message and without using internet data plan.
 
 #####Usage :
 
 1. Astrology
 
-Type @astronav capricorn in your mobile and send it to the number "51115"
+Send a text message - '@astronav capricorn' to "51115"
 
         @newsnav tech 1
   
 -technology news,
--"tech" is required and 1 can be changed to 2,3,4 to get next news
+-"tech" is required and 1 can be changed to 2,3,4 to get supsequent news
         @newsnav news 1
       
         @newsnav world 1
@@ -35,13 +35,13 @@ Type @astronav capricorn in your mobile and send it to the number "51115"
       @directions bangalore,from,to
       @directions bangalore,navrang,shivajinagar
 
-like this u can replace bangalore by hyderbad and chennai to search places there.
+Similarly directions could be obtained for places in hyderbad and chennai.
 
 3.Google serach
 
       @searchnav car|1
 
-In place of car you can type your queries and in place of 1 you can type 2,3,4..to change the page.
+Here 'car' specifies the query. Hence, it can be replaced with the user's query. To change the page, input 1 or 2 or 3 etc. after '|'.
 
 4.Mail
 
